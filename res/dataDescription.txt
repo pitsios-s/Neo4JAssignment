@@ -1,0 +1,37 @@
+=========================== Game ======================================================
+White: Zukertort  Johannes H			//The name of the white player
+Black: Steinitz  Wilhelm			//The name of the black player
+Date: 1886.01.11				//The date of the game
+HalfMoves: 92					//The total number of half moves of the game (move from one side (black or white)
+Moves: 46					//The total number of moves of the game (1move =1 move white+1 move black)
+Result: Black					//The result of the game (Black=black wins, White=white wins, Draw)
+WhiteElo: 0					//The ranking of the white player for the specific game (player elo rating is not static and is different in each game)
+BlackElo: 0					//The ranking of the black player for the specific game
+GameNumber: 1					//The code of the game
+Event: World Championship 1st			//The event that the game took place
+Site: USA					//The country in which the event has held
+EventDate: 1886.01.11				//The date of the event
+Round: 1					//The round of the event that the game was played
+ECO: D11					//The code of the opening used in the game (first 10-15 moves)
+Opening: Queen's Gambit Declined Slav		//The opening name
+
+
+//This section contains all the half moves of the game
+//MoveNumber: The number of half move
+//Side: The side that played the move (black or white)
+//Move: Shows which piece was moved in the chessboard (e.g. d4 a pawn moved to d4 square)
+//FEN: A String that represents a specific position of pieces in the chessboard (positions are unique and many games can include them after a certain move)
+--------------------------------------------------------- Game Moves ---------------------------------------------------------------------
+MoveNumber: 1,  Side: white,  Move: d4,  FEN: rnbqkbnrpppppppp883P48PPP1PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 2,  Side: black,  Move: d5,  FEN: rnbqkbnrppp1pppp83p43P48PPP1PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 3,  Side: white,  Move: c4,  FEN: rnbqkbnrppp1pppp83p42PP48PP2PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 4,  Side: black,  Move: c6,  FEN: rnbqkbnrpp2pppp2p53p42PP48PP2PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 5,  Side: white,  Move: e3,  FEN: rnbqkbnrpp2pppp2p53p42PP44P3PP3PPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 6,  Side: black,  Move: Bf5,  FEN: rn1qkbnrpp2pppp2p53p1b22PP44P3PP3PPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 7,  Side: white,  Move: Nc3,  FEN: rn1qkbnrpp2pppp2p53p1b22PP42N1P3PP3PPPR1BQKBNR,  GameNumber: 1
+MoveNumber: 8,  Side: black,  Move: e6,  FEN: rn1qkbnrpp3ppp2p1p33p1b22PP42N1P3PP3PPPR1BQKBNR,  GameNumber: 1
+MoveNumber: 9,  Side: white,  Move: Nf3,  FEN: rn1qkbnrpp3ppp2p1p33p1b22PP42N1PN2PP3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 10,  Side: black,  Move: Nd7,  FEN: r2qkbnrpp1n1ppp2p1p33p1b22PP42N1PN2PP3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 11,  Side: white,  Move: a3,  FEN: r2qkbnrpp1n1ppp2p1p33p1b22PP4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 12,  Side: black,  Move: Bd6,  FEN: r2qk1nrpp1n1ppp2pbp33p1b22PP4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 13,  Side: white,  Move: c5,  FEN: r2qk1nrpp1n1ppp2pbp32Pp1b23P4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
