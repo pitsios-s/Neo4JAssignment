@@ -41,9 +41,11 @@ if __name__ == '__main__':
             if re.match(r'([=]+)', line):
                 if game_found:
                     game_found = False
+                    games[game_number] = (game_number, game_date, game_result, game_eco, game_opening, game_half_moves, game_moves, game_white_elo, game_black_elo, game_round, num_of_events - 1, first_move)
                 else:
                     game_found = True
                     attribute_number = 0
+                    first_move = None
 
             if game_found:
 
@@ -143,14 +145,32 @@ if __name__ == '__main__':
                     game_opening = parts[1].strip()
                     attribute_number += 1
 
-                    games[game_number] = (game_number, game_date, game_result, game_eco, game_opening, game_half_moves, game_moves, game_white_elo, game_black_elo, game_round, num_of_events - 1)
+                elif attribute_number == 16:
                     attribute_number += 1
-                else:
-                    continue
 
+                elif attribute_number == 17:
+                    parts = line.split(",")
+                    move_number = parts[0].split(':')[1].strip()
+                    move_side = parts[1].split(':')[1].strip()
+                    move_move = parts[2].split(':')[1].strip()
+                    move_fen = parts[3].split(':')[1].strip()
+                    moves[num_of_moves] = (num_of_moves, move_number, move_side, move_move, move_fen)
+
+                    if first_move is None:
+                        first_move = num_of_moves
+
+                    num_of_moves += 1
 
     print(len(players))
     print(players)
 
     print(len(events))
     print(events)
+
+    print(len(games))
+
+    print(len(moves))
+
+    print(games['1'])
+    print(games['2'])
+    print(games['3'])
