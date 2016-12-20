@@ -1,0 +1,220 @@
+=========================== Game ======================================================
+White: Zukertort  Johannes H
+Black: Steinitz  Wilhelm
+Date: 1886.01.11
+HalfMoves: 92
+Moves: 46
+Result: Black
+WhiteElo: 0
+BlackElo: 0
+GameNumber: 1
+Event: World Championship 1st
+Site: USA
+EventDate: 1886.01.11
+Round: 1
+ECO: D11
+Opening: Queen's Gambit Declined Slav
+--------------------------------------------------------- Game Moves ---------------------------------------------------------------------
+MoveNumber: 1,  Side: white,  Move: d4,  FEN: rnbqkbnrpppppppp883P48PPP1PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 2,  Side: black,  Move: d5,  FEN: rnbqkbnrppp1pppp83p43P48PPP1PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 3,  Side: white,  Move: c4,  FEN: rnbqkbnrppp1pppp83p42PP48PP2PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 4,  Side: black,  Move: c6,  FEN: rnbqkbnrpp2pppp2p53p42PP48PP2PPPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 5,  Side: white,  Move: e3,  FEN: rnbqkbnrpp2pppp2p53p42PP44P3PP3PPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 6,  Side: black,  Move: Bf5,  FEN: rn1qkbnrpp2pppp2p53p1b22PP44P3PP3PPPRNBQKBNR,  GameNumber: 1
+MoveNumber: 7,  Side: white,  Move: Nc3,  FEN: rn1qkbnrpp2pppp2p53p1b22PP42N1P3PP3PPPR1BQKBNR,  GameNumber: 1
+MoveNumber: 8,  Side: black,  Move: e6,  FEN: rn1qkbnrpp3ppp2p1p33p1b22PP42N1P3PP3PPPR1BQKBNR,  GameNumber: 1
+MoveNumber: 9,  Side: white,  Move: Nf3,  FEN: rn1qkbnrpp3ppp2p1p33p1b22PP42N1PN2PP3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 10,  Side: black,  Move: Nd7,  FEN: r2qkbnrpp1n1ppp2p1p33p1b22PP42N1PN2PP3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 11,  Side: white,  Move: a3,  FEN: r2qkbnrpp1n1ppp2p1p33p1b22PP4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 12,  Side: black,  Move: Bd6,  FEN: r2qk1nrpp1n1ppp2pbp33p1b22PP4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 13,  Side: white,  Move: c5,  FEN: r2qk1nrpp1n1ppp2pbp32Pp1b23P4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 14,  Side: black,  Move: Bc7,  FEN: r2qk1nrppbn1ppp2p1p32Pp1b23P4P1N1PN21P3PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 15,  Side: white,  Move: b4,  FEN: r2qk1nrppbn1ppp2p1p32Pp1b21P1P4P1N1PN25PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 16,  Side: black,  Move: e5,  FEN: r2qk1nrppbn1ppp2p52Pppb21P1P4P1N1PN25PPPR1BQKB1R,  GameNumber: 1
+MoveNumber: 17,  Side: white,  Move: Be2,  FEN: r2qk1nrppbn1ppp2p52Pppb21P1P4P1N1PN24BPPPR1BQK2R,  GameNumber: 1
+MoveNumber: 18,  Side: black,  Move: Ngf6,  FEN: r2qk2rppbn1ppp2p2n22Pppb21P1P4P1N1PN24BPPPR1BQK2R,  GameNumber: 1
+MoveNumber: 19,  Side: white,  Move: Bb2,  FEN: r2qk2rppbn1ppp2p2n22Pppb21P1P4P1N1PN21B2BPPPR2QK2R,  GameNumber: 1
+MoveNumber: 20,  Side: black,  Move: e4,  FEN: r2qk2rppbn1ppp2p2n22Pp1b21P1Pp3P1N1PN21B2BPPPR2QK2R,  GameNumber: 1
+MoveNumber: 21,  Side: white,  Move: Nd2,  FEN: r2qk2rppbn1ppp2p2n22Pp1b21P1Pp3P1N1P31B1NBPPPR2QK2R,  GameNumber: 1
+MoveNumber: 22,  Side: black,  Move: h5,  FEN: r2qk2rppbn1pp12p2n22Pp1b1p1P1Pp3P1N1P31B1NBPPPR2QK2R,  GameNumber: 1
+MoveNumber: 23,  Side: white,  Move: h3,  FEN: r2qk2rppbn1pp12p2n22Pp1b1p1P1Pp3P1N1P2P1B1NBPP1R2QK2R,  GameNumber: 1
+MoveNumber: 24,  Side: black,  Move: Nf8,  FEN: r2qkn1rppb2pp12p2n22Pp1b1p1P1Pp3P1N1P2P1B1NBPP1R2QK2R,  GameNumber: 1
+MoveNumber: 25,  Side: white,  Move: a4,  FEN: r2qkn1rppb2pp12p2n22Pp1b1pPP1Pp32N1P2P1B1NBPP1R2QK2R,  GameNumber: 1
+MoveNumber: 26,  Side: black,  Move: Ng6,  FEN: r2qk2rppb2pp12p2nn12Pp1b1pPP1Pp32N1P2P1B1NBPP1R2QK2R,  GameNumber: 1
+MoveNumber: 27,  Side: white,  Move: b5,  FEN: r2qk2rppb2pp12p2nn11PPp1b1pP2Pp32N1P2P1B1NBPP1R2QK2R,  GameNumber: 1
+MoveNumber: 28,  Side: black,  Move: Nh4,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp2n2N1P2P1B1NBPP1R2QK2R,  GameNumber: 1
+MoveNumber: 29,  Side: white,  Move: g3,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp2n2N1P1PP1B1NBP2R2QK2R,  GameNumber: 1
+MoveNumber: 30,  Side: black,  Move: Ng2+,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp32N1P1PP1B1NBPn1R2QK2R,  GameNumber: 1
+MoveNumber: 31,  Side: white,  Move: Kf1,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp32N1P1PP1B1NBPn1R2Q1K1R,  GameNumber: 1
+MoveNumber: 32,  Side: black,  Move: Nxe3+,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp32N1n1PP1B1NBP2R2Q1K1R,  GameNumber: 1
+MoveNumber: 33,  Side: white,  Move: fxe3,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp32N1P1PP1B1NB3R2Q1K1R,  GameNumber: 1
+MoveNumber: 34,  Side: black,  Move: Bxg3,  FEN: r2qk2rpp3pp12p2n21PPp1b1pP2Pp32N1P1bP1B1NB3R2Q1K1R,  GameNumber: 1
+MoveNumber: 35,  Side: white,  Move: Kg2,  FEN: r2qk2rpp3pp12p2n21PPp1b1pP2Pp32N1P1bP1B1NB1K1R2Q3R,  GameNumber: 1
+MoveNumber: 36,  Side: black,  Move: Bc7,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp32N1P2P1B1NB1K1R2Q3R,  GameNumber: 1
+MoveNumber: 37,  Side: white,  Move: Qg1,  FEN: r2qk2rppb2pp12p2n21PPp1b1pP2Pp32N1P2P1B1NB1K1R5QR,  GameNumber: 1
+MoveNumber: 38,  Side: black,  Move: Rh6,  FEN: r2qk3ppb2pp12p2n1r1PPp1b1pP2Pp32N1P2P1B1NB1K1R5QR,  GameNumber: 1
+MoveNumber: 39,  Side: white,  Move: Kf1,  FEN: r2qk3ppb2pp12p2n1r1PPp1b1pP2Pp32N1P2P1B1NB3R4KQR,  GameNumber: 1
+MoveNumber: 40,  Side: black,  Move: Rg6,  FEN: r2qk3ppb2pp12p2nr11PPp1b1pP2Pp32N1P2P1B1NB3R4KQR,  GameNumber: 1
+MoveNumber: 41,  Side: white,  Move: Qf2,  FEN: r2qk3ppb2pp12p2nr11PPp1b1pP2Pp32N1P2P1B1NBQ2R4K1R,  GameNumber: 1
+MoveNumber: 42,  Side: black,  Move: Qd7,  FEN: r3k3ppbq1pp12p2nr11PPp1b1pP2Pp32N1P2P1B1NBQ2R4K1R,  GameNumber: 1
+MoveNumber: 43,  Side: white,  Move: bxc6,  FEN: r3k3ppbq1pp12P2nr12Pp1b1pP2Pp32N1P2P1B1NBQ2R4K1R,  GameNumber: 1
+MoveNumber: 44,  Side: black,  Move: bxc6,  FEN: r3k3p1bq1pp12p2nr12Pp1b1pP2Pp32N1P2P1B1NBQ2R4K1R,  GameNumber: 1
+MoveNumber: 45,  Side: white,  Move: Rg1,  FEN: r3k3p1bq1pp12p2nr12Pp1b1pP2Pp32N1P2P1B1NBQ2R4KR1,  GameNumber: 1
+MoveNumber: 46,  Side: black,  Move: Bxh3+,  FEN: r3k3p1bq1pp12p2nr12Pp3pP2Pp32N1P2b1B1NBQ2R4KR1,  GameNumber: 1
+MoveNumber: 47,  Side: white,  Move: Ke1,  FEN: r3k3p1bq1pp12p2nr12Pp3pP2Pp32N1P2b1B1NBQ2R3K1R1,  GameNumber: 1
+MoveNumber: 48,  Side: black,  Move: Ng4,  FEN: r3k3p1bq1pp12p3r12Pp3pP2Pp1n12N1P2b1B1NBQ2R3K1R1,  GameNumber: 1
+MoveNumber: 49,  Side: white,  Move: Bxg4,  FEN: r3k3p1bq1pp12p3r12Pp3pP2Pp1B12N1P2b1B1N1Q2R3K1R1,  GameNumber: 1
+MoveNumber: 50,  Side: black,  Move: Bxg4,  FEN: r3k3p1bq1pp12p3r12Pp3pP2Pp1b12N1P31B1N1Q2R3K1R1,  GameNumber: 1
+MoveNumber: 51,  Side: white,  Move: Ne2,  FEN: r3k3p1bq1pp12p3r12Pp3pP2Pp1b14P31B1NNQ2R3K1R1,  GameNumber: 1
+MoveNumber: 52,  Side: black,  Move: Qe7,  FEN: r3k3p1b1qpp12p3r12Pp3pP2Pp1b14P31B1NNQ2R3K1R1,  GameNumber: 1
+MoveNumber: 53,  Side: white,  Move: Nf4,  FEN: r3k3p1b1qpp12p3r12Pp3pP2PpNb14P31B1N1Q2R3K1R1,  GameNumber: 1
+MoveNumber: 54,  Side: black,  Move: Rh6,  FEN: r3k3p1b1qpp12p4r2Pp3pP2PpNb14P31B1N1Q2R3K1R1,  GameNumber: 1
+MoveNumber: 55,  Side: white,  Move: Bc3,  FEN: r3k3p1b1qpp12p4r2Pp3pP2PpNb12B1P33N1Q2R3K1R1,  GameNumber: 1
+MoveNumber: 56,  Side: black,  Move: g5,  FEN: r3k3p1b1qp22p4r2Pp2ppP2PpNb12B1P33N1Q2R3K1R1,  GameNumber: 1
+MoveNumber: 57,  Side: white,  Move: Ne2,  FEN: r3k3p1b1qp22p4r2Pp2ppP2Pp1b12B1P33NNQ2R3K1R1,  GameNumber: 1
+MoveNumber: 58,  Side: black,  Move: Rf6,  FEN: r3k3p1b1qp22p2r22Pp2ppP2Pp1b12B1P33NNQ2R3K1R1,  GameNumber: 1
+MoveNumber: 59,  Side: white,  Move: Qg2,  FEN: r3k3p1b1qp22p2r22Pp2ppP2Pp1b12B1P33NN1Q1R3K1R1,  GameNumber: 1
+MoveNumber: 60,  Side: black,  Move: Rf3,  FEN: r3k3p1b1qp22p52Pp2ppP2Pp1b12B1Pr23NN1Q1R3K1R1,  GameNumber: 1
+MoveNumber: 61,  Side: white,  Move: Nf1,  FEN: r3k3p1b1qp22p52Pp2ppP2Pp1b12B1Pr24N1Q1R3KNR1,  GameNumber: 1
+MoveNumber: 62,  Side: black,  Move: Rb8,  FEN: 1r2k3p1b1qp22p52Pp2ppP2Pp1b12B1Pr24N1Q1R3KNR1,  GameNumber: 1
+MoveNumber: 63,  Side: white,  Move: Kd2,  FEN: 1r2k3p1b1qp22p52Pp2ppP2Pp1b12B1Pr23KN1Q1R4NR1,  GameNumber: 1
+MoveNumber: 64,  Side: black,  Move: f5,  FEN: 1r2k3p1b1q32p52Pp1pppP2Pp1b12B1Pr23KN1Q1R4NR1,  GameNumber: 1
+MoveNumber: 65,  Side: white,  Move: a5,  FEN: 1r2k3p1b1q32p5P1Pp1ppp3Pp1b12B1Pr23KN1Q1R4NR1,  GameNumber: 1
+MoveNumber: 66,  Side: black,  Move: f4,  FEN: 1r2k3p1b1q32p5P1Pp2pp3Pppb12B1Pr23KN1Q1R4NR1,  GameNumber: 1
+MoveNumber: 67,  Side: white,  Move: Rh1,  FEN: 1r2k3p1b1q32p5P1Pp2pp3Pppb12B1Pr23KN1Q1R4N1R,  GameNumber: 1
+MoveNumber: 68,  Side: black,  Move: Qf7,  FEN: 1r2k3p1b2q22p5P1Pp2pp3Pppb12B1Pr23KN1Q1R4N1R,  GameNumber: 1
+MoveNumber: 69,  Side: white,  Move: Re1,  FEN: 1r2k3p1b2q22p5P1Pp2pp3Pppb12B1Pr23KN1Q14RN1R,  GameNumber: 1
+MoveNumber: 70,  Side: black,  Move: fxe3+,  FEN: 1r2k3p1b2q22p5P1Pp2pp3Pp1b12B1pr23KN1Q14RN1R,  GameNumber: 1
+MoveNumber: 71,  Side: white,  Move: Nxe3,  FEN: 1r2k3p1b2q22p5P1Pp2pp3Pp1b12B1Nr23KN1Q14R2R,  GameNumber: 1
+MoveNumber: 72,  Side: black,  Move: Rf2,  FEN: 1r2k3p1b2q22p5P1Pp2pp3Pp1b12B1N33KNrQ14R2R,  GameNumber: 1
+MoveNumber: 73,  Side: white,  Move: Qxf2,  FEN: 1r2k3p1b2q22p5P1Pp2pp3Pp1b12B1N33KNQ24R2R,  GameNumber: 1
+MoveNumber: 74,  Side: black,  Move: Qxf2,  FEN: 1r2k3p1b52p5P1Pp2pp3Pp1b12B1N33KNq24R2R,  GameNumber: 1
+MoveNumber: 75,  Side: white,  Move: Nxg4,  FEN: 1r2k3p1b52p5P1Pp2pp3Pp1N12B53KNq24R2R,  GameNumber: 1
+MoveNumber: 76,  Side: black,  Move: Bf4+,  FEN: 1r2k3p72p5P1Pp2pp3PpbN12B53KNq24R2R,  GameNumber: 1
+MoveNumber: 77,  Side: white,  Move: Kc2,  FEN: 1r2k3p72p5P1Pp2pp3PpbN12B52K1Nq24R2R,  GameNumber: 1
+MoveNumber: 78,  Side: black,  Move: hxg4,  FEN: 1r2k3p72p5P1Pp2p13Ppbp12B52K1Nq24R2R,  GameNumber: 1
+MoveNumber: 79,  Side: white,  Move: Bd2,  FEN: 1r2k3p72p5P1Pp2p13Ppbp182KBNq24R2R,  GameNumber: 1
+MoveNumber: 80,  Side: black,  Move: e3,  FEN: 1r2k3p72p5P1Pp2p13P1bp14p32KBNq24R2R,  GameNumber: 1
+MoveNumber: 81,  Side: white,  Move: Bc1,  FEN: 1r2k3p72p5P1Pp2p13P1bp14p32K1Nq22B1R2R,  GameNumber: 1
+MoveNumber: 82,  Side: black,  Move: Qg2,  FEN: 1r2k3p72p5P1Pp2p13P1bp14p32K1N1q12B1R2R,  GameNumber: 1
+MoveNumber: 83,  Side: white,  Move: Kc3,  FEN: 1r2k3p72p5P1Pp2p13P1bp12K1p34N1q12B1R2R,  GameNumber: 1
+MoveNumber: 84,  Side: black,  Move: Kd7,  FEN: 1r6p2k42p5P1Pp2p13P1bp12K1p34N1q12B1R2R,  GameNumber: 1
+MoveNumber: 85,  Side: white,  Move: Rh7+,  FEN: 1r6p2k3R2p5P1Pp2p13P1bp12K1p34N1q12B1R3,  GameNumber: 1
+MoveNumber: 86,  Side: black,  Move: Ke6,  FEN: 1r6p6R2p1k3P1Pp2p13P1bp12K1p34N1q12B1R3,  GameNumber: 1
+MoveNumber: 87,  Side: white,  Move: Rh6+,  FEN: 1r6p72p1k2RP1Pp2p13P1bp12K1p34N1q12B1R3,  GameNumber: 1
+MoveNumber: 88,  Side: black,  Move: Kf5,  FEN: 1r6p72p4RP1Pp1kp13P1bp12K1p34N1q12B1R3,  GameNumber: 1
+MoveNumber: 89,  Side: white,  Move: Bxe3,  FEN: 1r6p72p4RP1Pp1kp13P1bp12K1B34N1q14R3,  GameNumber: 1
+MoveNumber: 90,  Side: black,  Move: Bxe3,  FEN: 1r6p72p4RP1Pp1kp13P2p12K1b34N1q14R3,  GameNumber: 1
+MoveNumber: 91,  Side: white,  Move: Rf1+,  FEN: 1r6p72p4RP1Pp1kp13P2p12K1b34N1q15R2,  GameNumber: 1
+MoveNumber: 92,  Side: black,  Move: Bf4,  FEN: 1r6p72p4RP1Pp1kp13P1bp12K54N1q15R2,  GameNumber: 1
+======================================================================================
+=========================== Game ======================================================
+White: Steinitz  Wilhelm
+Black: Zukertort  Johannes H
+Date: 1886.01.13
+HalfMoves: 92
+Moves: 46
+Result: Black
+WhiteElo: 0
+BlackElo: 0
+GameNumber: 2
+Event: World Championship 1st
+Site: USA
+EventDate: 1886.01.11
+Round: 2
+ECO: C47
+Opening: Four Knights
+--------------------------------------------------------- Game Moves ---------------------------------------------------------------------
+MoveNumber: 1,  Side: white,  Move: e4,  FEN: rnbqkbnrpppppppp884P38PPPP1PPPRNBQKBNR,  GameNumber: 2
+MoveNumber: 2,  Side: black,  Move: e5,  FEN: rnbqkbnrpppp1ppp84p34P38PPPP1PPPRNBQKBNR,  GameNumber: 2
+MoveNumber: 3,  Side: white,  Move: Nf3,  FEN: rnbqkbnrpppp1ppp84p34P35N2PPPP1PPPRNBQKB1R,  GameNumber: 2
+MoveNumber: 4,  Side: black,  Move: Nc6,  FEN: r1bqkbnrpppp1ppp2n54p34P35N2PPPP1PPPRNBQKB1R,  GameNumber: 2
+MoveNumber: 5,  Side: white,  Move: d4,  FEN: r1bqkbnrpppp1ppp2n54p33PP35N2PPP2PPPRNBQKB1R,  GameNumber: 2
+MoveNumber: 6,  Side: black,  Move: exd4,  FEN: r1bqkbnrpppp1ppp2n583pP35N2PPP2PPPRNBQKB1R,  GameNumber: 2
+MoveNumber: 7,  Side: white,  Move: Nxd4,  FEN: r1bqkbnrpppp1ppp2n583NP38PPP2PPPRNBQKB1R,  GameNumber: 2
+MoveNumber: 8,  Side: black,  Move: Nf6,  FEN: r1bqkb1rpppp1ppp2n2n283NP38PPP2PPPRNBQKB1R,  GameNumber: 2
+MoveNumber: 9,  Side: white,  Move: Nc3,  FEN: r1bqkb1rpppp1ppp2n2n283NP32N5PPP2PPPR1BQKB1R,  GameNumber: 2
+MoveNumber: 10,  Side: black,  Move: Bb4,  FEN: r1bqk2rpppp1ppp2n2n281b1NP32N5PPP2PPPR1BQKB1R,  GameNumber: 2
+MoveNumber: 11,  Side: white,  Move: Nxc6,  FEN: r1bqk2rpppp1ppp2N2n281b2P32N5PPP2PPPR1BQKB1R,  GameNumber: 2
+MoveNumber: 12,  Side: black,  Move: bxc6,  FEN: r1bqk2rp1pp1ppp2p2n281b2P32N5PPP2PPPR1BQKB1R,  GameNumber: 2
+MoveNumber: 13,  Side: white,  Move: Bd3,  FEN: r1bqk2rp1pp1ppp2p2n281b2P32NB4PPP2PPPR1BQK2R,  GameNumber: 2
+MoveNumber: 14,  Side: black,  Move: d5,  FEN: r1bqk2rp1p2ppp2p2n23p41b2P32NB4PPP2PPPR1BQK2R,  GameNumber: 2
+MoveNumber: 15,  Side: white,  Move: exd5,  FEN: r1bqk2rp1p2ppp2p2n23P41b62NB4PPP2PPPR1BQK2R,  GameNumber: 2
+MoveNumber: 16,  Side: black,  Move: cxd5,  FEN: r1bqk2rp1p2ppp5n23p41b62NB4PPP2PPPR1BQK2R,  GameNumber: 2
+MoveNumber: 17,  Side: white,  Move: O-O,  FEN: r1bqk2rp1p2ppp5n23p41b62NB4PPP2PPPR1BQ1RK1,  GameNumber: 2
+MoveNumber: 18,  Side: black,  Move: O-O,  FEN: r1bq1rk1p1p2ppp5n23p41b62NB4PPP2PPPR1BQ1RK1,  GameNumber: 2
+MoveNumber: 19,  Side: white,  Move: Bg5,  FEN: r1bq1rk1p1p2ppp5n23p2B11b62NB4PPP2PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 20,  Side: black,  Move: c6,  FEN: r1bq1rk1p4ppp2p2n23p2B11b62NB4PPP2PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 21,  Side: white,  Move: Ne2,  FEN: r1bq1rk1p4ppp2p2n23p2B11b63B4PPP1NPPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 22,  Side: black,  Move: Bd6,  FEN: r1bq1rk1p4ppp2pb1n23p2B183B4PPP1NPPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 23,  Side: white,  Move: Ng3,  FEN: r1bq1rk1p4ppp2pb1n23p2B183B2N1PPP2PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 24,  Side: black,  Move: h6,  FEN: r1bq1rk1p4pp12pb1n1p3p2B183B2N1PPP2PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 25,  Side: white,  Move: Bd2,  FEN: r1bq1rk1p4pp12pb1n1p3p483B2N1PPPB1PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 26,  Side: black,  Move: Ng4,  FEN: r1bq1rk1p4pp12pb3p3p46n13B2N1PPPB1PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 27,  Side: white,  Move: Be2,  FEN: r1bq1rk1p4pp12pb3p3p46n16N1PPPBBPPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 28,  Side: black,  Move: Qh4,  FEN: r1b2rk1p4pp12pb3p3p46nq6N1PPPBBPPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 29,  Side: white,  Move: Bxg4,  FEN: r1b2rk1p4pp12pb3p3p46Bq6N1PPPB1PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 30,  Side: black,  Move: Bxg4,  FEN: r4rk1p4pp12pb3p3p46bq6N1PPPB1PPPR2Q1RK1,  GameNumber: 2
+MoveNumber: 31,  Side: white,  Move: Qc1,  FEN: r4rk1p4pp12pb3p3p46bq6N1PPPB1PPPR1Q2RK1,  GameNumber: 2
+MoveNumber: 32,  Side: black,  Move: Be2,  FEN: r4rk1p4pp12pb3p3p47q6N1PPPBbPPPR1Q2RK1,  GameNumber: 2
+MoveNumber: 33,  Side: white,  Move: Re1,  FEN: r4rk1p4pp12pb3p3p47q6N1PPPBbPPPR1Q1R1K1,  GameNumber: 2
+MoveNumber: 34,  Side: black,  Move: Ba6,  FEN: r4rk1p4pp1b1pb3p3p47q6N1PPPB1PPPR1Q1R1K1,  GameNumber: 2
+MoveNumber: 35,  Side: white,  Move: Bc3,  FEN: r4rk1p4pp1b1pb3p3p47q2B3N1PPP2PPPR1Q1R1K1,  GameNumber: 2
+MoveNumber: 36,  Side: black,  Move: f5,  FEN: r4rk1p5p1b1pb3p3p1p27q2B3N1PPP2PPPR1Q1R1K1,  GameNumber: 2
+MoveNumber: 37,  Side: white,  Move: Re6,  FEN: r4rk1p5p1b1pbR2p3p1p27q2B3N1PPP2PPPR1Q3K1,  GameNumber: 2
+MoveNumber: 38,  Side: black,  Move: Rad8,  FEN: 3r1rk1p5p1b1pbR2p3p1p27q2B3N1PPP2PPPR1Q3K1,  GameNumber: 2
+MoveNumber: 39,  Side: white,  Move: Qd2,  FEN: 3r1rk1p5p1b1pbR2p3p1p27q2B3N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 40,  Side: black,  Move: d4,  FEN: 3r1rk1p5p1b1pbR2p5p23p3q2B3N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 41,  Side: white,  Move: Ba5,  FEN: 3r1rk1p5p1b1pbR2pB4p23p3q6N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 42,  Side: black,  Move: Rd7,  FEN: 5rk1p2r2p1b1pbR2pB4p23p3q6N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 43,  Side: white,  Move: Rxd6,  FEN: 5rk1p2r2p1b1pR3pB4p23p3q6N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 44,  Side: black,  Move: Rxd6,  FEN: 5rk1p5p1b1pr3pB4p23p3q6N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 45,  Side: white,  Move: Bb4,  FEN: 5rk1p5p1b1pr3p5p21B1p3q6N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 46,  Side: black,  Move: Qf6,  FEN: 5rk1p5p1b1pr1q1p5p21B1p46N1PPPQ1PPPR5K1,  GameNumber: 2
+MoveNumber: 47,  Side: white,  Move: Rd1,  FEN: 5rk1p5p1b1pr1q1p5p21B1p46N1PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 48,  Side: black,  Move: Rd5,  FEN: 5rk1p5p1b1p2q1p3r1p21B1p46N1PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 49,  Side: white,  Move: Bxf8,  FEN: 5Bk1p5p1b1p2q1p3r1p23p46N1PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 50,  Side: black,  Move: Qxf8,  FEN: 5qk1p5p1b1p4p3r1p23p46N1PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 51,  Side: white,  Move: Nh5,  FEN: 5qk1p5p1b1p4p3r1p1N3p48PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 52,  Side: black,  Move: Qe8,  FEN: 4q1k1p5p1b1p4p3r1p1N3p48PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 53,  Side: white,  Move: Nf4,  FEN: 4q1k1p5p1b1p4p3r1p23p1N28PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 54,  Side: black,  Move: Re5,  FEN: 4q1k1p5p1b1p4p4rp23p1N28PPPQ1PPP3R2K1,  GameNumber: 2
+MoveNumber: 55,  Side: white,  Move: h4,  FEN: 4q1k1p5p1b1p4p4rp23p1N1P8PPPQ1PP13R2K1,  GameNumber: 2
+MoveNumber: 56,  Side: black,  Move: c5,  FEN: 4q1k1p5p1b6p2p1rp23p1N1P8PPPQ1PP13R2K1,  GameNumber: 2
+MoveNumber: 57,  Side: white,  Move: h5,  FEN: 4q1k1p5p1b6p2p1rp1P3p1N28PPPQ1PP13R2K1,  GameNumber: 2
+MoveNumber: 58,  Side: black,  Move: Re4,  FEN: 4q1k1p5p1b6p2p2p1P3prN28PPPQ1PP13R2K1,  GameNumber: 2
+MoveNumber: 59,  Side: white,  Move: c3,  FEN: 4q1k1p5p1b6p2p2p1P3prN22P5PP1Q1PP13R2K1,  GameNumber: 2
+MoveNumber: 60,  Side: black,  Move: Qb8,  FEN: 1q4k1p5p1b6p2p2p1P3prN22P5PP1Q1PP13R2K1,  GameNumber: 2
+MoveNumber: 61,  Side: white,  Move: g3,  FEN: 1q4k1p5p1b6p2p2p1P3prN22P3P1PP1Q1P23R2K1,  GameNumber: 2
+MoveNumber: 62,  Side: black,  Move: Qe5,  FEN: 6k1p5p1b6p2p1qp1P3prN22P3P1PP1Q1P23R2K1,  GameNumber: 2
+MoveNumber: 63,  Side: white,  Move: Ng6,  FEN: 6k1p5p1b5Np2p1qp1P3pr32P3P1PP1Q1P23R2K1,  GameNumber: 2
+MoveNumber: 64,  Side: black,  Move: Qd6,  FEN: 6k1p5p1b2q2Np2p2p1P3pr32P3P1PP1Q1P23R2K1,  GameNumber: 2
+MoveNumber: 65,  Side: white,  Move: Nf4,  FEN: 6k1p5p1b2q3p2p2p1P3prN22P3P1PP1Q1P23R2K1,  GameNumber: 2
+MoveNumber: 66,  Side: black,  Move: d3,  FEN: 6k1p5p1b2q3p2p2p1P4rN22Pp2P1PP1Q1P23R2K1,  GameNumber: 2
+MoveNumber: 67,  Side: white,  Move: b3,  FEN: 6k1p5p1b2q3p2p2p1P4rN21PPp2P1P2Q1P23R2K1,  GameNumber: 2
+MoveNumber: 68,  Side: black,  Move: c4,  FEN: 6k1p5p1b2q3p5p1P2p1rN21PPp2P1P2Q1P23R2K1,  GameNumber: 2
+MoveNumber: 69,  Side: white,  Move: Rb1,  FEN: 6k1p5p1b2q3p5p1P2p1rN21PPp2P1P2Q1P21R4K1,  GameNumber: 2
+MoveNumber: 70,  Side: black,  Move: Kh7,  FEN: 8p5pkb2q3p5p1P2p1rN21PPp2P1P2Q1P21R4K1,  GameNumber: 2
+MoveNumber: 71,  Side: white,  Move: Kh2,  FEN: 8p5pkb2q3p5p1P2p1rN21PPp2P1P2Q1P1K1R6,  GameNumber: 2
+MoveNumber: 72,  Side: black,  Move: Qb6,  FEN: 8p5pkbq5p5p1P2p1rN21PPp2P1P2Q1P1K1R6,  GameNumber: 2
+MoveNumber: 73,  Side: white,  Move: Kg1,  FEN: 8p5pkbq5p5p1P2p1rN21PPp2P1P2Q1P21R4K1,  GameNumber: 2
+MoveNumber: 74,  Side: black,  Move: Bb7,  FEN: 8pb4pk1q5p5p1P2p1rN21PPp2P1P2Q1P21R4K1,  GameNumber: 2
+MoveNumber: 75,  Side: white,  Move: Rb2,  FEN: 8pb4pk1q5p5p1P2p1rN21PPp2P1PR1Q1P26K1,  GameNumber: 2
+MoveNumber: 76,  Side: black,  Move: Qc6,  FEN: 8pb4pk2q4p5p1P2p1rN21PPp2P1PR1Q1P26K1,  GameNumber: 2
+MoveNumber: 77,  Side: white,  Move: f3,  FEN: 8pb4pk2q4p5p1P2p1rN21PPp1PP1PR1Q46K1,  GameNumber: 2
+MoveNumber: 78,  Side: black,  Move: Qc5+,  FEN: 8pb4pk7p2q2p1P2p1rN21PPp1PP1PR1Q46K1,  GameNumber: 2
+MoveNumber: 79,  Side: white,  Move: Qf2,  FEN: 8pb4pk7p2q2p1P2p1rN21PPp1PP1PR3Q26K1,  GameNumber: 2
+MoveNumber: 80,  Side: black,  Move: Re1+,  FEN: 8pb4pk7p2q2p1P2p2N21PPp1PP1PR3Q24r1K1,  GameNumber: 2
+MoveNumber: 81,  Side: white,  Move: Kh2,  FEN: 8pb4pk7p2q2p1P2p2N21PPp1PP1PR3Q1K4r3,  GameNumber: 2
+MoveNumber: 82,  Side: black,  Move: Qxf2+,  FEN: 8pb4pk7p5p1P2p2N21PPp1PP1PR3q1K4r3,  GameNumber: 2
+MoveNumber: 83,  Side: white,  Move: Rxf2,  FEN: 8pb4pk7p5p1P2p2N21PPp1PP1P4R1K4r3,  GameNumber: 2
+MoveNumber: 84,  Side: black,  Move: Bxf3,  FEN: 8p5pk7p5p1P2p2N21PPp1bP1P4R1K4r3,  GameNumber: 2
+MoveNumber: 85,  Side: white,  Move: g4,  FEN: 8p5pk7p5p1P2p2NP11PPp1b2P4R1K4r3,  GameNumber: 2
+MoveNumber: 86,  Side: black,  Move: Be2,  FEN: 8p5pk7p5p1P2p2NP11PPp4P3bR1K4r3,  GameNumber: 2
+MoveNumber: 87,  Side: white,  Move: Ng2,  FEN: 8p5pk7p5p1P2p3P11PPp4P3bRNK4r3,  GameNumber: 2
+MoveNumber: 88,  Side: black,  Move: d2,  FEN: 8p5pk7p5p1P2p3P11PP5P2pbRNK4r3,  GameNumber: 2
+MoveNumber: 89,  Side: white,  Move: Ne3,  FEN: 8p5pk7p5p1P2p3P11PP1N3P2pbR1K4r3,  GameNumber: 2
+MoveNumber: 90,  Side: black,  Move: cxb3,  FEN: 8p5pk7p5p1P6P11pP1N3P2pbR1K4r3,  GameNumber: 2
+MoveNumber: 91,  Side: white,  Move: axb3,  FEN: 8p5pk7p5p1P6P11PP1N33pbR1K4r3,  GameNumber: 2
+MoveNumber: 92,  Side: black,  Move: Bxg4,  FEN: 8p5pk7p5p1P6b11PP1N33p1R1K4r3,  GameNumber: 2
+======================================================================================

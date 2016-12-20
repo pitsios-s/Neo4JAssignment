@@ -1,31 +1,93 @@
 import re
+import csv
 
 # A dictionary keeping all the unique players
 players = {}
 
-# An integer variable that keeps the number of all unique players
-num_of_players = 0
+# An integer variable used for a unique id for the players
+num_of_players = 1
 
 # A dictionary keeping all the unique events
 events = {}
 
-# An integer variable that keeps the number of all unique events
-num_of_events = 0
+# An integer variable used for a unique id for the events
+num_of_events = 1
 
 # A dictionary keeping all the unique games
 games = {}
 
-# An integer variable that keeps the number of all unique games
-num_of_games = 0
-
 # A dictionary keeping all the unique moves
 moves = {}
 
-# An integer variable that keeps the number of all unique moves
-num_of_moves = 0
+# An integer variable used for a unique id for the moves
+num_of_moves = 1
+
+# A list that will contain tuples of the format (playerId, gameId, playerColor) that keeps the information for each
+# player that participates in a specific game.
+players_to_games = []
+
+# A list that will contain tuples of the format (moveId, nextMoveId) that keeps sequence of the moves
+moves_to_moves = []
+
+
+def save_players_to_csv():
+    with open('../csv/players.csv', 'w+') as out_file:
+        csv_writer = csv.writer(out_file, delimiter=',', lineterminator='\n')
+        csv_writer.writerow(['id', 'name'])
+
+        for item in players.values():
+            csv_writer.writerow([item[1], item[0]])
+
+
+def save_events_to_csv():
+    with open('../csv/events.csv', 'w+') as out_file:
+        csv_writer = csv.writer(out_file, delimiter=',', lineterminator='\n')
+        csv_writer.writerow(['id', 'name', 'site', 'date'])
+
+        for item in events.values():
+            csv_writer.writerow([item[0], item[1], item[2], item[3]])
+
+
+def save_moves_to_csv():
+    with open('../csv/moves.csv', 'w+') as out_file:
+        csv_writer = csv.writer(out_file, delimiter=',', lineterminator='\n')
+        csv_writer.writerow(['id', 'number', 'side', 'move', 'fen'])
+
+        for item in moves.values():
+            csv_writer.writerow([item[0], item[1], item[2], item[3], item[4]])
+
+
+def save_games_to_csv():
+    with open('../csv/games.csv', 'w+') as out_file:
+        csv_writer = csv.writer(out_file, delimiter=',', lineterminator='\n')
+        csv_writer.writerow(['id', 'date', 'result', 'eco', 'opening', 'halfMoves', 'moves', 'whiteELO', 'blackELO',
+                             'round', 'eventID', 'firstMoveID'])
+
+        for item in games.values():
+            csv_writer.writerow([item[0], item[1], item[2], item[3], item[4], item[5], item[6], item[7], item[8],
+                                 item[9], item[10], item[11]])
+
+
+def save_players_to_games_to_csv():
+    with open('../csv/playersGames.csv', 'w+') as out_file:
+        csv_writer = csv.writer(out_file, delimiter=',', lineterminator='\n')
+        csv_writer.writerow(['playerID', 'gameID', 'color'])
+
+        for item in players_to_games:
+            csv_writer.writerow([item[0], item[1], item[2]])
+
+
+def save_move_to_move_to_csv():
+    with open('../csv/moveMove.csv', 'w+') as out_file:
+        csv_writer = csv.writer(out_file, delimiter=',', lineterminator='\n')
+        csv_writer.writerow(['moveId', 'nextMoveId'])
+
+        for item in moves_to_moves:
+            csv_writer.writerow([item[0], item[1]])
+
 
 if __name__ == '__main__':
-    with open('../res/chessData.txt', 'r') as in_file:
+    with open('../res/chessDataShort.txt', 'r') as in_file:
 
         # A boolean flag variable that indicates if we have found a game "tag"
         game_found = False
@@ -42,10 +104,13 @@ if __name__ == '__main__':
                 if game_found:
                     game_found = False
                     games[game_number] = (game_number, game_date, game_result, game_eco, game_opening, game_half_moves, game_moves, game_white_elo, game_black_elo, game_round, num_of_events - 1, first_move)
+                    players_to_games.append((player1_id, game_number, player_color_1))
+                    players_to_games.append((player2_id, game_number, player_color_2))
                 else:
                     game_found = True
                     attribute_number = 0
                     first_move = None
+                    prev_move = None
 
             if game_found:
 
@@ -60,7 +125,10 @@ if __name__ == '__main__':
 
                     if player_name_1 not in players:
                         players[player_name_1] = (parts[1].strip(), num_of_players)
+                        player1_id = num_of_players
                         num_of_players += 1
+                    else:
+                        player1_id = players[player_name_1][1]
 
                     attribute_number += 1
 
@@ -71,7 +139,10 @@ if __name__ == '__main__':
 
                     if player_name_2 not in players:
                         players[player_name_2] = (parts[1].strip(), num_of_players)
+                        player2_id = num_of_players
                         num_of_players += 1
+                    else:
+                        player2_id = players[player_name_2][1]
 
                     attribute_number += 1
 
@@ -92,7 +163,7 @@ if __name__ == '__main__':
 
                 elif attribute_number == 6:
                     parts = line.strip().split(":")
-                    game_result = parts[1].strip()
+                    game_result = parts[1].strip().lower()
                     attribute_number += 1
 
                 elif attribute_number == 7:
@@ -159,18 +230,29 @@ if __name__ == '__main__':
                     if first_move is None:
                         first_move = num_of_moves
 
+                    if prev_move is None:
+                        prev_move = num_of_moves
+                    else:
+                        moves_to_moves.append((prev_move, num_of_moves))
+                        prev_move = num_of_moves
+
                     num_of_moves += 1
 
     print(len(players))
-    print(players)
 
     print(len(events))
-    print(events)
 
     print(len(games))
 
     print(len(moves))
 
-    print(games['1'])
-    print(games['2'])
-    print(games['3'])
+    print(len(players_to_games))
+
+    print(len(moves_to_moves))
+
+    save_players_to_csv()
+    save_events_to_csv()
+    save_moves_to_csv()
+    save_games_to_csv()
+    save_players_to_games_to_csv()
+    save_move_to_move_to_csv()
