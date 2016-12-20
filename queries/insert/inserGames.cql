@@ -4,8 +4,7 @@ USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS 
 FROM 'file:/games.csv' AS line
 WITH line, SPLIT (line.date, '.') AS date
-CREATE (g:Game {id: TOINT(line.id), year: TOINT(date[0]), result: line.result, eco: line.eco, opening:line.opening, halfMoves: TOINT(line.halfMoves), moves: TOINT(line.moves), whiteELO: line.whiteELO, blackELO: line.blackELO})
-WITH line
 MATCH (e:Event {id: TOINT(line.eventID)}), (m:Move {id: TOINT(line.firstMoveID)})
+CREATE (g:Game {id: TOINT(line.id), year: TOINT(date[0]), result: line.result, eco: line.eco, opening:line.opening, halfMoves: TOINT(line.halfMoves), moves: TOINT(line.moves), whiteELO: line.whiteELO, blackELO: line.blackELO})
 CREATE (g)-[:belongsTo {round: TOINT(line.round)}]->(e)
-CREATE (g)-[:startWith]->(m);
+CREATE (g)-[:startsWith]->(m);
