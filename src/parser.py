@@ -87,7 +87,7 @@ def save_move_to_move_to_csv():
 
 
 if __name__ == '__main__':
-    with open('../res/chessDataShort.txt', 'r') as in_file:
+    with open('../res/chessData.txt', 'r') as in_file:
 
         # A boolean flag variable that indicates if we have found a game "tag"
         game_found = False

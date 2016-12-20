@@ -1,0 +1,685 @@
+id,date,result,eco,opening,halfMoves,moves,whiteELO,blackELO,round,eventID,firstMoveID
+383,1951.05.04,black,E69,"King's Indian, Fianchetto, Classical Main line",128,64,0,0,21,18,34201
+340,1948.04.18,white,D99,"Grunfeld Defense, Smyslov",83,41,0,0,14,17,30337
+596,1978.08.08,draw,C80,"Ruy Lopez, Open",87,43,2725,2665,10,28,53001
+197,1927.11.01,draw,D63,"Queen's Gambit Declined, Orthodox Defense",95,47,0,0,23,12,17159
+517,1963.05.15,draw,D27,"Queen's Gambit Accepted, Classical",42,21,0,0,20,24,46303
+126,1908.09.23,white,D40,"Queen's Gambit Declined, Semi-Tarrasch",87,43,0,0,13,7,10831
+253,1934.05.27,draw,D52,Queen's Gambit Declined,88,44,0,0,20,14,22705
+653,1984.10.24,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",44,22,2705,2715,17,30,58159
+538,1966.05.27,white,C11,French,135,67,0,0,19,25,47913
+318,1948.03.04,white,D94,Grunfeld,53,26,0,0,2,17,28380
+405,1954.04.29,draw,C15,"French, Winawer",89,44,0,0,19,19,36049
+369,1951.03.30,white,A94,"Dutch, Stonewall with Ba3",131,65,0,0,7,18,32789
+360,1948.05.13,black,D99,"Grunfeld Defense, Smyslov",76,38,0,0,24,17,31999
+271,1935.10.29,white,D97,"Grunfeld, Russian",71,35,0,0,12,15,24298
+364,1951.03.18,draw,D87,"Grunfeld, Exchange",97,48,0,0,2,18,32280
+293,1937.10.12,draw,D17,Queen's Gambit Declined Slav,53,26,0,0,4,16,26252
+160,1910.02.08,white,D94,Grunfeld,141,70,0,0,10,10,14188
+165,1921.03.29,white,D63,"Queen's Gambit Declined, Orthodox Defense",91,45,0,0,5,11,14694
+317,1948.03.04,white,D46,Queen's Gambit Declined Semi-Slav,63,31,0,0,2,17,28317
+92,1894.05.05,black,C68,"Ruy Lopez, Exchange",110,55,0,0,13,5,7598
+163,1921.03.19,draw,C66,Ruy Lopez,125,62,0,0,3,11,14510
+604,1978.09.02,draw,B08,"Pirc, Classical",128,64,2725,2665,18,28,53708
+516,1963.05.11,white,E19,"Queen's Indian, Old Main line, 9.Qxc3",131,65,0,0,19,24,46172
+129,1908.09.30,black,C49,Four Knights,52,26,0,0,16,7,11258
+146,1910.11.24,white,D32,"Queen's Gambit Declined, Tarrasch",91,45,0,0,7,9,12770
+157,1910.01.30,draw,B57,Sicilian,96,48,0,0,7,10,13877
+548,1969.04.23,white,D41,"Queen's Gambit Declined, Semi-Tarrasch",59,29,0,0,5,26,48893
+30,1889.02.08,white,D07,"Queen's Gambit Declined, Chigorin Defense",53,26,0,0,10,2,2459
+648,1984.10.12,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",41,20,2715,2705,12,30,57765
+295,1937.10.16,white,D10,Queen's Gambit Declined Slav,45,22,0,0,6,16,26386
+622,1981.10.08,white,C42,Petrov Defense,105,52,2700,2695,4,29,55618
+434,1958.03.06,white,E81,"King's Indian, Samisch",81,40,0,0,2,21,38413
+418,1957.03.23,white,B66,"Sicilian, Richter-Rauzer Attack, 7...a6",81,40,0,0,8,20,37091
+543,1966.06.08,draw,E61,King's Indian,153,76,0,0,24,25,48339
+579,1972.08.15,draw,D37,Queen's Gambit Declined,80,40,2785,2660,14,27,51561
+65,1892.01.19,draw,C52,Evans Gambit,67,33,0,0,9,4,5224
+441,1958.03.27,draw,B72,"Sicilian, Dragon",80,40,0,0,9,21,39079
+281,1935.11.24,draw,E33,"Nimzo-Indian, Classical",35,17,0,0,22,15,25169
+475,1960.??.??,draw,E24,"Nimzo-Indian, Samisch",54,27,0,0,20,22,42123
+186,1927.10.11,white,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",81,40,0,0,12,12,16331
+100,1907.01.29,white,C11,French,103,51,0,0,2,6,8419
+118,1908.09.01,white,C98,"Ruy Lopez, Closed, Chigorin",75,37,0,0,5,7,10013
+553,1969.05.09,white,E48,"Nimzo-Indian, 4.e3 O-O 5.Bd3 d5",75,37,0,0,10,26,49317
+594,1978.08.03,white,C80,"Ruy Lopez, Open",55,27,2725,2665,8,28,52864
+64,1892.01.16,black,C58,Two Knights,48,24,0,0,8,4,5176
+137,1909.11.05,draw,C66,Ruy Lopez,60,30,0,0,8,8,11945
+302,1937.11.03,white,D18,"Queen's Gambit Declined Slav, Dutch",135,67,0,0,13,16,26821
+631,1981.11.05,white,D31,Queen's Gambit Declined,82,41,2695,2700,13,29,56434
+268,1935.10.22,white,C15,"French, Winawer",81,40,0,0,9,15,24076
+557,1969.05.19,draw,D55,Queen's Gambit Declined,111,55,0,0,14,26,49649
+635,1981.11.16,draw,D53,Queen's Gambit Declined,46,23,2695,2700,17,29,56771
+22,1889.01.22,white,D02,Queen's Pawn Game,75,37,0,0,2,2,1796
+408,1954.05.08,draw,D83,"Grunfeld, Grunfeld Gambit",90,45,0,0,22,19,36361
+652,1984.10.22,draw,E15,Queen's Indian,70,35,2715,2705,16,30,58089
+663,1984.11.23,white,D55,Queen's Gambit Declined,117,58,2705,2715,27,30,58628
+654,1984.10.26,draw,E15,Queen's Indian,43,21,2715,2705,18,30,58203
+574,1972.08.01,draw,D41,"Queen's Gambit Declined, Semi-Tarrasch",58,29,2660,2785,9,27,51073
+451,1958.04.22,white,B11,"Caro-Kann, Two Knights, 3...Bg4",69,34,0,0,19,21,40016
+352,1948.05.04,black,E33,"Nimzo-Indian, Classical",84,42,0,0,20,17,31408
+428,1957.04.18,draw,C15,"French, Winawer",123,61,0,0,18,20,38006
+29,1889.02.05,black,C52,Evans Gambit,112,56,0,0,9,2,2347
+669,1984.12.17,draw,D45,Queen's Gambit Declined Semi-Slav,39,19,2705,2715,33,30,59011
+132,1909.10.22,white,C68,"Ruy Lopez, Exchange",75,37,0,0,3,8,11459
+311,1937.11.27,white,A09,Reti Opening,123,61,0,0,22,16,27735
+613,1978.09.28,black,A29,"English, Four Knights, Kingside Fianchetto",81,40,2665,2725,27,28,54673
+279,1935.11.16,white,D17,Queen's Gambit Declined Slav,81,40,0,0,20,15,25008
+6,1886.02.03,white,C67,Ruy Lopez,121,60,0,0,6,1,419
+19,1886.03.24,black,D53,Queen's Gambit Declined,58,29,0,0,19,1,1586
+52,1891.01.12,draw,E14,Queen's Indian,77,38,0,0,15,3,4256
+633,1981.11.12,draw,A29,"English, Four Knights, Kingside Fianchetto",80,40,2695,2700,15,29,56607
+233,1929.11.11,draw,D30,Queen's Gambit Declined,110,55,0,0,25,13,20577
+308,1937.11.20,draw,E21,"Nimzo-Indian, Three Knights",97,48,0,0,19,16,27493
+670,1984.12.19,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",40,20,2715,2705,34,30,59050
+208,1927.11.26,white,D51,Queen's Gambit Declined,163,81,0,0,34,12,18082
+529,1966.05.02,white,E66,"King's Indian, Fianchetto, Yugoslav Panno",59,29,0,0,10,25,47101
+645,1984.10.05,white,D34,"Queen's Gambit Declined, Tarrasch",139,69,2705,2715,9,30,57516
+273,1935.11.02,white,D82,"Grunfeld, 4.Bf4",81,40,0,0,14,15,24486
+612,1978.09.26,draw,A21,English,54,27,2725,2665,26,28,54619
+38,1890.12.09,draw,D35,Queen's Gambit Declined,50,25,0,0,1,3,3205
+82,1894.03.21,white,C62,"Ruy Lopez, Old Steinitz Defense",103,51,0,0,3,5,6556
+72,1892.02.07,white,C77,Ruy Lopez,75,37,0,0,16,4,5727
+169,1921.04.06,draw,D34,"Queen's Gambit Declined, Tarrasch",42,21,0,0,9,11,14977
+617,1978.10.12,white,D36,"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",141,70,2665,2725,31,28,55115
+80,1894.03.15,white,C62,"Ruy Lopez, Old Steinitz Defense",119,59,0,0,1,5,6354
+562,1969.06.04,white,B94,"Sicilian, Najdorf",47,23,0,0,19,26,50092
+603,1978.08.26,black,E47,"Nimzo-Indian, 4.e3 O-O 5.Bd3",78,39,2665,2725,17,28,53630
+409,1954.05.11,white,A04,Reti Opening,55,27,0,0,23,19,36451
+650,1984.10.17,draw,E15,Queen's Indian,31,15,2715,2705,14,30,57872
+76,1892.02.18,white,D37,Queen's Gambit Declined,81,40,0,0,20,4,6019
+683,1985.01.30,black,D52,Queen's Gambit Declined,64,32,2705,2715,47,30,59985
+86,1894.04.03,white,C62,"Ruy Lopez, Old Steinitz Defense",91,45,0,0,7,5,7019
+123,1908.09.14,white,C67,Ruy Lopez,63,31,0,0,10,7,10584
+67,1892.01.24,black,C62,"Ruy Lopez, Old Steinitz Defense",90,45,0,0,11,4,5351
+309,1937.11.23,draw,E34,"Nimzo-Indian, Classical, Noa Variation",81,40,0,0,20,16,27590
+184,1927.10.06,draw,D62,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",40,20,0,0,10,12,16159
+321,1948.03.09,white,E51,"Nimzo-Indian, 4.e3",63,31,0,0,4,17,28602
+453,1958.05.01,draw,B34,"Sicilian, Accelerated Fianchetto",45,22,0,0,21,21,40180
+85,1894.03.29,draw,C54,Giuoco Piano,142,71,0,0,6,5,6877
+607,1978.09.12,white,D37,Queen's Gambit Declined,119,59,2665,2725,21,28,54039
+464,1960.??.??,black,B18,"Caro-Kann, Classical",116,58,0,0,9,22,41048
+466,1960.??.??,white,D78,"Neo-Grunfeld, 6.O-O c6",143,71,0,0,11,22,41283
+228,1929.10.30,draw,C79,"Ruy Lopez, Steinitz Defense Deferred",95,47,0,0,20,13,20066
+105,1907.02.16,draw,D32,"Queen's Gambit Declined, Tarrasch",97,48,0,0,7,6,8810
+551,1969.05.02,black,D37,Queen's Gambit Declined,88,44,0,0,8,26,49099
+173,1921.04.19,draw,D63,"Queen's Gambit Declined, Orthodox Defense",46,23,0,0,13,11,15311
+460,1960.??.??,draw,B18,"Caro-Kann, Classical",85,42,0,0,5,22,40687
+290,1937.10.05,white,D17,Queen's Gambit Declined Slav,99,49,0,0,1,16,25952
+629,1981.10.31,draw,D37,Queen's Gambit Declined,70,35,2695,2700,11,29,56271
+231,1929.11.05,draw,D46,Queen's Gambit Declined Semi-Slav,165,82,0,0,23,13,20336
+628,1981.10.29,draw,C54,Giuoco Piano,63,31,2700,2695,10,29,56208
+347,1948.04.27,draw,D76,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6",160,80,0,0,18,17,30903
+310,1937.11.25,black,E18,"Queen's Indian, Old Main line, 7.Nc3",64,32,0,0,21,16,27671
+544,1969.04.14,black,B42,"Sicilian, Kan",112,56,0,0,1,26,48492
+223,1929.10.17,draw,E70,King's Indian,88,44,0,0,15,13,19537
+193,1927.10.22,draw,D63,"Queen's Gambit Declined, Orthodox Defense",42,21,0,0,19,12,16795
+213,1929.09.13,white,D17,Queen's Gambit Declined Slav,95,47,0,0,5,13,18612
+312,1937.11.30,draw,E17,Queen's Indian,100,50,0,0,23,16,27858
+523,1966.04.18,draw,E08,"Catalan, Closed",87,43,0,0,4,25,46643
+483,1961.03.29,white,E24,"Nimzo-Indian, Samisch",65,32,0,0,7,23,42744
+642,1984.09.26,black,E15,Queen's Indian,140,70,2715,2705,6,30,57254
+342,1948.04.20,draw,A13,English,52,26,0,0,15,17,30564
+605,1978.09.07,draw,E06,"Catalan, Closed, 5.Nf3",77,38,2665,2725,19,28,53836
+455,1958.05.08,draw,A05,Reti Opening,81,40,0,0,23,21,40301
+531,1966.05.06,draw,A42,"Modern Defense, Averbakh System",77,38,0,0,12,25,47211
+58,1892.01.03,draw,C65,"Ruy Lopez, Berlin Defense",63,31,0,0,2,4,4737
+406,1954.05.04,black,E61,King's Indian,144,72,0,0,20,19,36138
+164,1921.03.23,draw,D60,"Queen's Gambit Declined, Orthodox Defense",59,29,0,0,4,11,14635
+104,1907.02.09,draw,C12,"French, McCutcheon",42,21,0,0,6,6,8768
+172,1921.04.16,draw,C66,Ruy Lopez,61,30,0,0,12,11,15250
+583,1972.08.24,draw,B69,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6",94,47,2785,2660,18,27,51936
+522,1966.04.15,draw,D26,Queen's Gambit Accepted,86,43,0,0,3,25,46557
+620,1981.10.03,white,C67,Ruy Lopez,113,56,2700,2695,2,29,55424
+204,1927.11.16,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",80,40,0,0,30,12,17758
+280,1935.11.19,black,D17,Queen's Gambit Declined Slav,80,40,0,0,21,15,25089
+478,1961.03.17,white,B18,"Caro-Kann, Classical",89,44,0,0,2,23,42292
+189,1927.10.15,draw,D63,"Queen's Gambit Declined, Orthodox Defense",59,29,0,0,15,12,16516
+673,1985.01.02,draw,B63,"Sicilian, Richter-Rauzer Attack",30,15,2705,2715,37,30,59205
+77,1892.02.23,draw,C25,Vienna,93,46,0,0,21,4,6100
+330,1948.03.18,draw,C71,Ruy Lopez,47,23,0,0,8,17,29455
+486,1961.04.10,black,B12,Caro-Kann Defense,84,42,0,0,10,23,43011
+162,1921.03.17,draw,D37,Queen's Gambit Declined,81,40,0,0,2,11,14429
+211,1929.09.09,draw,D17,Queen's Gambit Declined Slav,140,70,0,0,3,13,18397
+69,1892.01.31,black,C52,Evans Gambit,76,38,0,0,13,4,5493
+284,1935.12.01,black,D52,Queen's Gambit Declined,90,45,0,0,25,15,25384
+138,1909.11.06,white,C87,Ruy Lopez,121,60,0,0,9,8,12005
+185,1927.10.08,black,D52,Queen's Gambit Declined,132,66,0,0,11,12,16199
+322,1948.03.09,black,C98,"Ruy Lopez, Closed, Chigorin",84,42,0,0,4,17,28665
+122,1908.09.11,draw,C15,"French, Winawer",143,71,0,0,9,7,10441
+492,1961.04.24,draw,B12,Caro-Kann Defense,180,90,0,0,16,23,43531
+243,1934.04.27,black,D52,Queen's Gambit Declined,162,81,0,0,10,14,21539
+235,1934.04.04,white,D48,"Queen's Gambit Declined Semi-Slav, Meran",73,36,0,0,2,14,20817
+303,1937.11.06,white,E02,"Catalan, Open, 5.Qa4",103,51,0,0,14,16,26956
+304,1937.11.09,draw,D19,"Queen's Gambit Declined Slav, Dutch",123,61,0,0,15,16,27059
+226,1929.10.26,white,C11,French,101,50,0,0,18,13,19812
+210,1929.09.07,draw,E23,"Nimzo-Indian, Spielmann",101,50,0,0,2,13,18296
+349,1948.05.03,black,C18,"French, Winawer",94,47,0,0,19,17,31144
+362,1948.05.16,white,D40,"Queen's Gambit Declined, Semi-Tarrasch",71,35,0,0,25,17,32152
+502,1963.04.01,white,D94,Grunfeld,95,47,0,0,5,24,44786
+632,1981.11.09,white,C80,"Ruy Lopez, Open",91,45,2700,2695,14,29,56516
+371,1951.04.03,draw,A91,Dutch Defense,82,41,0,0,9,18,33001
+18,1886.03.22,white,C65,"Ruy Lopez, Berlin Defense",79,39,0,0,18,1,1507
+121,1908.09.09,draw,C67,Ruy Lopez,96,48,0,0,8,7,10345
+83,1894.03.23,white,C54,Giuoco Piano,119,59,0,0,4,5,6659
+111,1907.03.21,black,D07,"Queen's Gambit Declined, Chigorin Defense",116,58,0,0,13,6,9421
+53,1891.01.15,white,C52,Evans Gambit,41,20,0,0,16,3,4333
+275,1935.11.07,black,D12,Queen's Gambit Declined Slav,130,65,0,0,16,15,24689
+384,1951.05.06,white,A91,Dutch Defense,75,37,0,0,22,18,34329
+135,1909.10.30,white,C66,Ruy Lopez,65,32,0,0,6,8,11755
+437,1958.03.18,white,B72,"Sicilian, Dragon",81,40,0,0,5,21,38789
+237,1934.04.11,white,D31,Queen's Gambit Declined,121,60,0,0,4,14,20944
+402,1954.04.20,white,E61,King's Indian,89,44,0,0,16,19,35784
+487,1961.04.12,white,D14,"Queen's Gambit Declined Slav, Exchange Variation",84,42,0,0,11,23,43095
+212,1929.09.11,white,E38,"Nimzo-Indian, Classical, 4...c5",75,37,0,0,4,13,18537
+247,1934.05.08,draw,D60,"Queen's Gambit Declined, Orthodox Defense",107,53,0,0,14,14,22121
+151,1910.01.07,draw,C66,Ruy Lopez,138,69,0,0,1,10,13285
+258,1934.06.11,black,D11,Queen's Gambit Declined Slav,88,44,0,0,25,14,23195
+651,1984.10.19,draw,E15,Queen's Indian,186,93,2705,2715,15,30,57903
+390,1954.03.23,white,D22,Queen's Gambit Accepted,121,60,0,0,4,19,34816
+89,1894.04.19,black,D35,Queen's Gambit Declined,68,34,0,0,10,5,7359
+168,1921.04.03,draw,D12,Queen's Gambit Declined Slav,60,30,0,0,8,11,14917
+219,1929.10.07,draw,D51,Queen's Gambit Declined,126,63,0,0,11,13,19090
+335,1948.04.11,white,C75,"Ruy Lopez, Modern Steinitz Defense",103,51,0,0,11,17,29870
+147,1910.11.27,black,D40,"Queen's Gambit Declined, Semi-Tarrasch",176,88,0,0,8,9,12861
+154,1910.01.18,draw,C80,"Ruy Lopez, Open",112,56,0,0,4,10,13555
+410,1954.05.13,draw,E69,"King's Indian, Fianchetto, Classical Main line",44,22,0,0,24,19,36506
+136,1909.11.02,white,C87,Ruy Lopez,125,62,0,0,7,8,11820
+251,1934.05.21,draw,D05,Queen's Pawn Game,56,28,0,0,18,14,22534
+109,1907.03.16,draw,A83,"Dutch, Staunton Gambit",101,50,0,0,11,6,9229
+4,1886.01.18,black,C67,Ruy Lopez,78,39,0,0,4,1,278
+106,1907.02.19,white,C12,"French, McCutcheon",136,68,0,0,8,6,8907
+565,1969.06.13,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",62,31,0,0,22,26,50343
+672,1984.12.28,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",81,40,2715,2705,36,30,59124
+1,1886.01.11,black,D11,Queen's Gambit Declined Slav,92,46,0,0,1,1,1
+176,1927.09.20,draw,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",38,19,0,0,2,12,15555
+62,1892.01.12,white,C59,Two Knights,93,46,0,0,6,4,5028
+530,1966.05.04,draw,C10,French,51,25,0,0,11,25,47160
+467,1960.??.??,draw,D40,"Queen's Gambit Declined, Semi-Tarrasch",144,72,0,0,12,22,41426
+626,1981.10.22,draw,C54,Giuoco Piano,167,83,2700,2695,8,29,55955
+108,1907.03.08,draw,C12,"French, McCutcheon",95,47,0,0,10,6,9134
+153,1910.01.15,draw,C66,Ruy Lopez,62,31,0,0,3,10,13493
+370,1951.04.01,draw,D49,"Queen's Gambit Declined Semi-Slav, Meran",81,40,0,0,8,18,32920
+134,1909.10.27,white,C68,"Ruy Lopez, Exchange",121,60,0,0,5,8,11634
+37,1889.02.24,draw,C52,Evans Gambit,140,70,0,0,17,2,3065
+592,1978.07.29,draw,A29,"English, Four Knights, Kingside Fianchetto",45,22,2725,2665,6,28,52736
+667,1984.12.07,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",70,35,2705,2715,31,30,58860
+591,1978.07.27,draw,E42,"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",247,123,2665,2725,5,28,52489
+200,1927.11.08,draw,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",43,21,0,0,26,12,17415
+191,1927.10.18,draw,D63,"Queen's Gambit Declined, Orthodox Defense",118,59,0,0,17,12,16622
+507,1963.04.15,draw,D27,"Queen's Gambit Accepted, Classical",86,43,0,0,10,24,45257
+174,1921.04.20,black,C66,Ruy Lopez,112,56,0,0,14,11,15357
+357,1948.05.11,draw,E32,"Nimzo-Indian, Classical",52,26,0,0,23,17,31832
+587,1978.07.18,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",36,18,2665,2725,1,28,52299
+536,1966.05.20,draw,B25,"Sicilian, Closed",58,29,0,0,17,25,47790
+336,1948.04.13,white,D49,"Queen's Gambit Declined Semi-Slav, Meran",71,35,0,0,12,17,29973
+39,1890.12.11,black,C62,"Ruy Lopez, Old Steinitz Defense",78,39,0,0,2,3,3255
+582,1972.08.22,draw,B09,"Pirc, Austrian Attack",89,44,2660,2785,17,27,51847
+114,1908.08.17,white,C68,"Ruy Lopez, Exchange",109,54,0,0,1,7,9652
+599,1978.08.17,black,D53,Queen's Gambit Declined,122,61,2665,2725,13,28,53276
+497,1961.05.12,white,E87,"King's Indian, Samisch, Orthodox",65,32,0,0,21,23,44351
+51,1891.01.10,draw,C52,Evans Gambit,66,33,0,0,14,3,4190
+345,1948.04.25,draw,C08,"French, Tarrasch, Open, 4.ed ed",57,28,0,0,17,17,30765
+375,1951.04.13,draw,E44,"Nimzo-Indian, Fischer Variation, 5.Ne2",112,56,0,0,13,18,33349
+355,1948.05.09,draw,D35,Queen's Gambit Declined,28,14,0,0,22,17,31707
+481,1961.03.24,draw,E51,"Nimzo-Indian, 4.e3",146,73,0,0,5,23,42548
+540,1966.06.01,draw,C11,French,78,39,0,0,21,25,48129
+414,1957.03.12,black,B66,"Sicilian, Richter-Rauzer Attack, 7...a6",81,40,0,0,4,20,36802
+343,1948.04.22,white,C81,"Ruy Lopez, Open, Howell Attack",67,33,0,0,16,17,30616
+324,1948.03.11,white,D46,Queen's Gambit Declined Semi-Slav,82,41,0,0,5,17,28865
+140,1910.11.08,white,D32,"Queen's Gambit Declined, Tarrasch",43,21,0,0,1,9,12184
+259,1934.06.14,draw,E67,"King's Indian, Fianchetto",47,23,0,0,26,14,23283
+40,1890.12.13,draw,D31,Queen's Gambit Declined,54,27,0,0,3,3,3333
+643,1984.09.28,white,D34,"Queen's Gambit Declined, Tarrasch",83,41,2705,2715,7,30,57394
+95,1894.05.17,black,D60,"Queen's Gambit Declined, Orthodox Defense",108,54,0,0,16,5,7886
+320,1948.03.08,draw,D96,"Grunfeld, Russian Variation",88,44,0,0,3,17,28514
+674,1985.01.04,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",50,25,2715,2705,38,30,59235
+171,1921.04.13,white,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",95,47,0,0,11,11,15155
+224,1929.10.19,black,D30,Queen's Gambit Declined,120,60,0,0,16,13,19625
+84,1894.03.27,draw,C62,"Ruy Lopez, Old Steinitz Defense",99,49,0,0,5,5,6778
+634,1981.11.14,draw,C80,"Ruy Lopez, Open",84,42,2700,2695,16,29,56687
+283,1935.11.28,draw,A90,Dutch,65,32,0,0,24,15,25319
+329,1948.03.18,draw,D98,"Grunfeld, Russian",158,79,0,0,8,17,29297
+351,1948.05.04,white,D06,Queen's Gambit Declined,119,59,0,0,20,17,31289
+354,1948.05.06,draw,C81,"Ruy Lopez, Open, Howell Attack",145,72,0,0,21,17,31562
+555,1969.05.14,draw,D34,"Queen's Gambit Declined, Tarrasch",97,48,0,0,12,26,49503
+256,1934.06.03,white,D23,Queen's Gambit Accepted,115,57,0,0,23,14,23002
+28,1889.02.04,white,D46,Queen's Gambit Declined Semi-Slav,75,37,0,0,8,2,2272
+452,1958.04.29,draw,A30,"English, Symmetrical",95,47,0,0,20,21,40085
+236,1934.04.06,draw,D22,Queen's Gambit Accepted,54,27,0,0,3,14,20890
+225,1929.10.21,white,D70,Neo-Grunfeld Defense,67,33,0,0,17,13,19745
+415,1957.03.16,white,E62,"King's Indian, Fianchetto",107,53,0,0,5,20,36883
+70,1892.02.02,white,C65,"Ruy Lopez, Berlin Defense",65,32,0,0,14,4,5569
+430,1957.04.23,white,C18,"French, Winawer",83,41,0,0,20,20,38159
+272,1935.11.01,draw,C83,"Ruy Lopez, Open",117,58,0,0,13,15,24369
+55,1891.01.21,black,C52,Evans Gambit,108,54,0,0,18,3,4486
+50,1891.01.07,white,D37,Queen's Gambit Declined,79,39,0,0,13,3,4111
+493,1961.04.28,black,E81,"King's Indian, Samisch",166,83,0,0,17,23,43711
+477,1961.03.15,white,E51,"Nimzo-Indian, 4.e3",81,40,0,0,1,23,42211
+671,1984.12.26,draw,B64,"Sicilian, Richter-Rauzer Attack",34,17,2705,2715,35,30,59090
+150,1910.12.08,white,C30,King's Gambit Declined,59,29,0,0,11,9,13226
+79,1892.02.28,black,C34,King's Gambit Accepted,64,32,0,0,23,4,6290
+490,1961.04.19,draw,B12,Caro-Kann Defense,65,32,0,0,14,23,43341
+199,1927.11.05,draw,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",80,40,0,0,25,12,17335
+325,1948.03.15,draw,C86,"Ruy Lopez, Worrall Attack",67,33,0,0,6,17,28947
+468,1960.??.??,draw,A30,"English, Symmetrical",31,15,0,0,13,22,41570
+156,1910.01.29,draw,C80,"Ruy Lopez, Open",94,47,0,0,6,10,13783
+413,1957.03.09,draw,E66,"King's Indian, Fianchetto, Yugoslav Panno",81,40,0,0,3,20,36721
+479,1961.03.20,white,E51,"Nimzo-Indian, 4.e3",85,42,0,0,3,23,42381
+356,1948.05.09,draw,A16,English,97,48,0,0,22,17,31735
+316,1948.03.02,draw,C99,"Ruy Lopez, Closed, Chigorin, 12...cd",81,40,0,0,1,17,28236
+589,1978.07.22,draw,E42,"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",60,30,2665,2725,3,28,52392
+289,1935.12.15,draw,D21,Queen's Gambit Accepted,79,39,0,0,30,15,25873
+298,1937.10.24,draw,D18,"Queen's Gambit Declined Slav, Dutch",81,40,0,0,9,16,26550
+411,1957.03.05,black,A36,English,81,40,0,0,1,20,36550
+14,1886.03.12,draw,C67,Ruy Lopez,96,48,0,0,14,1,1113
+459,1960.??.??,draw,E27,"Nimzo-Indian, Samisch Variation",80,40,0,0,4,22,40607
+116,1908.08.22,black,C98,"Ruy Lopez, Closed, Chigorin",88,44,0,0,3,7,9843
+578,1972.08.10,black,B04,"Alekhine's Defense, Modern",148,74,2660,2785,13,27,51413
+661,1984.11.19,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",42,21,2705,2715,25,30,58540
+472,1960.??.??,white,B18,"Caro-Kann, Classical",81,40,0,0,17,22,41808
+506,1963.04.13,draw,E08,"Catalan, Closed",110,55,0,0,9,24,45147
+148,1910.12.01,white,C79,"Ruy Lopez, Steinitz Defense Deferred",85,42,0,0,9,9,13037
+676,1985.01.09,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",140,70,2715,2705,40,30,59381
+159,1910.02.05,draw,B33,Sicilian,129,64,0,0,9,10,14059
+436,1958.03.13,draw,D98,"Grunfeld, Russian",163,81,0,0,4,21,38626
+380,1951.04.24,draw,D15,Queen's Gambit Declined Slav,115,57,0,0,18,18,33876
+36,1889.02.23,white,A85,"Dutch, with c4 & Nc3",103,51,0,0,16,2,2962
+346,1948.04.25,white,D36,"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",81,40,0,0,17,17,30822
+7,1886.02.05,black,D40,"Queen's Gambit Declined, Semi-Tarrasch",70,35,0,0,7,1,540
+550,1969.04.30,draw,D19,"Queen's Gambit Declined Slav, Dutch",53,26,0,0,7,26,49046
+296,1937.10.19,black,D18,"Queen's Gambit Declined Slav, Dutch",68,34,0,0,7,16,26431
+513,1963.05.01,draw,D27,"Queen's Gambit Accepted, Classical",107,53,0,0,16,24,45865
+201,1927.11.09,draw,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",76,38,0,0,27,12,17458
+115,1908.08.19,black,C66,Ruy Lopez,82,41,0,0,2,7,9761
+539,1966.05.30,white,E59,"Nimzo-Indian, 4.e3, Main line",81,40,0,0,20,25,48048
+344,1948.04.22,draw,D19,"Queen's Gambit Declined Slav, Dutch",82,41,0,0,16,17,30683
+49,1891.01.05,white,C52,Evans Gambit,47,23,0,0,12,3,4064
+142,1910.11.12,draw,D55,Queen's Gambit Declined,201,100,0,0,3,9,12317
+166,1921.03.30,draw,C66,Ruy Lopez,86,43,0,0,6,11,14785
+528,1966.04.29,draw,D42,"Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",51,25,0,0,9,25,47050
+3,1886.01.15,white,D10,Queen's Gambit Declined Slav,93,46,0,0,3,1,185
+399,1954.04.13,black,B24,"Sicilian, Closed",82,41,0,0,13,19,35564
+658,1984.11.05,draw,E05,"Catalan, Open, Classical line",39,19,2715,2705,22,30,58424
+456,1960.??.??,white,C18,"French, Winawer",63,31,0,0,1,22,40382
+373,1951.04.08,black,E17,Queen's Indian,78,39,0,0,11,18,33191
+494,1961.05.03,black,B12,Caro-Kann Defense,82,41,0,0,18,23,43877
+182,1927.10.03,draw,D62,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",84,42,0,0,8,12,16007
+27,1889.01.31,white,C52,Evans Gambit,67,33,0,0,7,2,2205
+192,1927.10.20,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",55,27,0,0,18,12,16740
+575,1972.08.03,white,C95,"Ruy Lopez, Closed, Breyer",111,55,2785,2660,10,27,51131
+659,1984.11.12,draw,D53,Queen's Gambit Declined,44,22,2705,2715,23,30,58463
+278,1935.11.14,white,D16,Queen's Gambit Declined Slav,113,56,0,0,19,15,24895
+532,1966.05.11,white,B19,"Caro-Kann, Classical",182,91,0,0,13,25,47288
+602,1978.08.24,draw,C08,"French, Tarrasch, Open, 4.ed ed",84,42,2725,2665,16,28,53546
+664,1984.11.28,draw,C42,Petrov Defense,49,24,2715,2705,28,30,58745
+378,1951.04.20,draw,A91,Dutch Defense,149,74,0,0,16,18,33657
+24,1889.01.26,white,D02,Queen's Pawn Game,43,21,0,0,4,2,2036
+23,1889.01.24,white,C62,"Ruy Lopez, Old Steinitz Defense",165,82,0,0,3,2,1871
+397,1954.04.08,white,C73,"Ruy Lopez, Modern Steinitz Defense",82,41,0,0,11,19,35407
+404,1954.04.24,draw,E61,King's Indian,115,57,0,0,18,19,35934
+183,1927.10.05,draw,D51,Queen's Gambit Declined,68,34,0,0,9,12,16091
+615,1978.10.07,white,A19,"English, Mikenas-Carls, Sicilian Variation",157,78,2665,2725,29,28,54876
+644,1984.10.03,draw,E05,"Catalan, Open, Classical line",39,19,2715,2705,8,30,57477
+230,1929.11.03,black,C76,"Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation",78,39,0,0,22,13,20258
+461,1960.??.??,black,E69,"King's Indian, Fianchetto, Classical Main line",92,46,0,0,6,22,40772
+403,1954.04.22,draw,A04,Reti Opening,61,30,0,0,17,19,35873
+573,1972.07.27,white,A39,"English, Symmetrical, Main line with d4",73,36,2785,2660,8,27,51000
+47,1891.01.02,black,C54,Giuoco Piano,86,43,0,0,10,3,3921
+534,1966.05.16,draw,B25,"Sicilian, Closed",110,55,0,0,15,25,47583
+393,1954.03.30,white,C15,"French, Winawer",99,49,0,0,7,19,35085
+242,1934.04.25,black,A44,Old Benoni Defense,92,46,0,0,9,14,21447
+503,1963.04.03,draw,D27,"Queen's Gambit Accepted, Classical",54,27,0,0,6,24,44881
+127,1908.09.24,draw,C67,Ruy Lopez,238,119,0,0,14,7,10918
+429,1957.04.20,draw,A36,English,30,15,0,0,19,20,38129
+319,1948.03.08,white,E91,King's Indian,81,40,0,0,3,17,28433
+569,1972.07.18,draw,B88,"Sicilian, Fischer-Sozin Attack",89,44,2785,2660,4,27,50679
+505,1963.04.08,draw,D27,"Queen's Gambit Accepted, Classical",109,54,0,0,8,24,45038
+285,1935.12.03,white,E18,"Queen's Indian, Old Main line, 7.Nc3",93,46,0,0,26,15,25474
+75,1892.02.16,white,C45,Scotch Game,63,31,0,0,19,4,5956
+572,1972.07.25,draw,B97,"Sicilian, Najdorf",97,48,2660,2785,7,27,50903
+255,1934.06.01,draw,E35,"Nimzo-Indian, Classical, Noa Variation, 5.cd ed",83,41,0,0,22,14,22919
+215,1929.09.17,white,D78,"Neo-Grunfeld, 6.O-O c6",69,34,0,0,7,13,18802
+512,1963.04.29,white,D97,"Grunfeld, Russian",115,57,0,0,15,24,45750
+239,1934.04.18,draw,D30,Queen's Gambit Declined,120,60,0,0,6,14,21166
+508,1963.04.17,draw,D32,"Queen's Gambit Declined, Tarrasch",82,41,0,0,11,24,45343
+391,1954.03.25,draw,D44,Queen's Gambit Declined Semi-Slav,81,40,0,0,5,19,34937
+206,1927.11.22,white,D35,Queen's Gambit Declined,125,62,0,0,32,12,17921
+412,1957.03.07,draw,B66,"Sicilian, Richter-Rauzer Attack, 7...a6",90,45,0,0,2,20,36631
+465,1960.??.??,draw,E89,"King's Indian, Samisch, Orthodox Main line",119,59,0,0,10,22,41164
+81,1894.03.19,white,C65,"Ruy Lopez, Berlin Defense",83,41,0,0,2,5,6473
+103,1907.02.05,draw,D53,Queen's Gambit Declined,82,41,0,0,5,6,8686
+45,1890.12.27,draw,C54,Giuoco Piano,71,35,0,0,8,3,3691
+11,1886.03.01,black,C49,Four Knights,84,42,0,0,11,1,771
+473,1960.??.??,draw,E24,"Nimzo-Indian, Samisch",152,76,0,0,18,22,41889
+21,1889.01.20,white,C52,Evans Gambit,115,57,0,0,1,2,1681
+677,1985.01.14,draw,C42,Petrov Defense,141,70,2705,2715,41,30,59521
+668,1984.12.12,white,E12,Queen's Indian,81,40,2715,2705,32,30,58930
+637,1984.09.10,draw,B81,"Sicilian, Scheveningen, Keres Attack",72,36,2705,2715,1,30,56898
+229,1929.11.01,white,E22,"Nimzo-Indian, Spielmann Variation",97,48,0,0,21,13,20161
+244,1934.04.29,black,A91,Dutch Defense,124,62,0,0,11,14,21701
+152,1910.01.13,draw,C80,"Ruy Lopez, Open",70,35,0,0,2,10,13423
+207,1927.11.25,draw,D51,Queen's Gambit Declined,36,18,0,0,33,12,18046
+245,1934.05.02,draw,D49,"Queen's Gambit Declined Semi-Slav, Meran",149,74,0,0,12,14,21825
+73,1892.02.09,white,C52,Evans Gambit,77,38,0,0,17,4,5802
+158,1910.02.02,draw,C80,"Ruy Lopez, Open",86,43,0,0,8,10,13973
+601,1978.08.22,draw,E05,"Catalan, Open, Classical line",49,24,2665,2725,15,28,53497
+170,1921.04.08,black,D61,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",136,68,0,0,10,11,15019
+269,1935.10.24,white,D45,Queen's Gambit Declined Semi-Slav,81,40,0,0,10,15,24157
+66,1892.01.21,black,C58,Two Knights,60,30,0,0,10,4,5291
+205,1927.11.18,draw,D51,Queen's Gambit Declined,83,41,0,0,31,12,17838
+377,1951.04.17,draw,C08,"French, Tarrasch, Open, 4.ed ed",65,32,0,0,15,18,33592
+678,1985.01.16,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",52,26,2715,2705,42,30,59662
+680,1985.01.21,draw,C92,"Ruy Lopez, Closed",75,37,2715,2705,44,30,59756
+537,1966.05.23,draw,E12,Queen's Indian,65,32,0,0,18,25,47848
+113,1907.04.06,black,D53,Queen's Gambit Declined,74,37,0,0,15,6,9578
+260,1935.10.03,white,D17,Queen's Gambit Declined Slav,59,29,0,0,1,15,23330
+337,1948.04.13,draw,D99,"Grunfeld Defense, Smyslov",84,42,0,0,12,17,30044
+291,1937.10.07,white,D17,Queen's Gambit Declined Slav,81,40,0,0,2,16,26051
+339,1948.04.18,black,E29,"Nimzo-Indian, Samisch",83,41,0,0,14,17,30254
+145,1910.11.20,draw,D40,"Queen's Gambit Declined, Semi-Tarrasch",133,66,0,0,6,9,12637
+424,1957.04.06,draw,C18,"French, Winawer",91,45,0,0,14,20,37555
+422,1957.04.02,white,A42,"Modern Defense, Averbakh System",86,43,0,0,12,20,37388
+470,1960.??.??,draw,B18,"Caro-Kann, Classical",82,41,0,0,15,22,41645
+117,1908.08.24,black,C66,Ruy Lopez,82,41,0,0,4,7,9931
+257,1934.06.06,black,D30,Queen's Gambit Declined,78,39,0,0,24,14,23117
+131,1909.10.21,black,C49,Four Knights,64,32,0,0,2,8,11395
+43,1890.12.20,black,D05,Queen's Pawn Game,86,43,0,0,6,3,3550
+519,1963.05.20,draw,D23,Queen's Gambit Accepted,20,10,0,0,22,24,46364
+520,1966.04.11,draw,B19,"Caro-Kann, Classical",73,36,0,0,1,25,46384
+482,1961.03.27,draw,B12,Caro-Kann Defense,50,25,0,0,6,23,42694
+656,1984.10.31,draw,A30,"English, Symmetrical",29,14,2715,2705,20,30,58334
+33,1889.02.16,white,C52,Evans Gambit,127,63,0,0,13,2,2694
+541,1966.06.03,white,A40,Queen's Pawn Game,70,35,0,0,22,25,48207
+458,1960.??.??,draw,B11,"Caro-Kann, Two Knights, 3...Bg4",74,37,0,0,3,22,40533
+334,1948.04.11,black,C74,"Ruy Lopez, Modern Steinitz Defense",50,25,0,0,11,17,29820
+400,1954.04.15,black,E68,"King's Indian, Fianchetto, Classical Variation, 8.e4",66,33,0,0,14,19,35646
+262,1935.10.08,white,C15,"French, Winawer",81,40,0,0,3,15,23478
+439,1958.03.22,draw,B72,"Sicilian, Dragon",31,15,0,0,7,21,38967
+248,1934.05.11,draw,D21,Queen's Gambit Accepted,139,69,0,0,15,14,22228
+300,1937.10.30,draw,D17,Queen's Gambit Declined Slav,60,30,0,0,11,16,26710
+221,1929.10.13,black,D52,Queen's Gambit Declined,68,34,0,0,13,13,19328
+31,1889.02.10,white,C52,Evans Gambit,61,30,0,0,11,2,2512
+366,1951.03.23,draw,D90,Grunfeld,94,47,0,0,4,18,32503
+376,1951.04.15,draw,A08,King's Indian Attack,131,65,0,0,14,18,33461
+372,1951.04.06,draw,A85,"Dutch, with c4 & Nc3",108,54,0,0,10,18,33083
+558,1969.05.21,draw,C42,Petrov Defense,38,19,0,0,15,26,49760
+99,1907.01.26,black,C65,"Ruy Lopez, Berlin Defense",98,49,0,0,1,6,8321
+640,1984.09.21,draw,E15,Queen's Indian,88,44,2715,2705,4,30,57124
+13,1886.03.05,white,D26,Queen's Gambit Accepted,171,85,0,0,13,1,942
+20,1886.03.29,white,C25,Vienna,37,18,0,0,20,1,1644
+498,1963.03.23,black,E35,"Nimzo-Indian, Classical, Noa Variation, 5.cd ed",80,40,0,0,1,24,44416
+214,1929.09.15,white,E22,"Nimzo-Indian, Spielmann Variation",95,47,0,0,6,13,18707
+625,1981.10.17,white,D53,Queen's Gambit Declined,61,30,2695,2700,7,29,55894
+549,1969.04.25,draw,D56,Queen's Gambit Declined,94,47,0,0,6,26,48952
+682,1985.01.28,draw,C92,"Ruy Lopez, Closed",82,41,2715,2705,46,30,59903
+495,1961.05.05,black,E81,"King's Indian, Samisch",150,75,0,0,19,23,43959
+621,1981.10.05,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",81,40,2695,2700,3,29,55537
+577,1972.08.08,draw,D66,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",110,55,2785,2660,12,27,51303
+188,1927.10.14,draw,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line",50,25,0,0,14,12,16466
+263,1935.10.10,black,D81,"Grunfeld, Russian Variation",88,44,0,0,4,15,23559
+419,1957.03.26,draw,E62,"King's Indian, Fianchetto",76,38,0,0,9,20,37172
+12,1886.03.03,white,C67,Ruy Lopez,87,43,0,0,12,1,855
+196,1927.10.28,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",172,86,0,0,22,12,16987
+469,1960.??.??,draw,E24,"Nimzo-Indian, Samisch",44,22,0,0,14,22,41601
+232,1929.11.10,draw,C11,French,76,38,0,0,24,13,20501
+542,1966.06.06,white,C11,French,62,31,0,0,23,25,48277
+167,1921.04.02,draw,D61,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",46,23,0,0,7,11,14871
+98,1894.05.26,white,D40,"Queen's Gambit Declined, Semi-Tarrasch",103,51,0,0,19,5,8218
+684,1985.02.08,white,C42,Petrov Defense,133,66,2715,2705,48,30,60049
+514,1963.05.06,draw,E14,Queen's Indian,78,39,0,0,17,24,45972
+216,1929.09.19,black,A50,Queen's Pawn Game,60,30,0,0,8,13,18871
+2,1886.01.13,black,C47,Four Knights,92,46,0,0,2,1,93
+416,1957.03.19,white,D98,"Grunfeld, Russian",55,27,0,0,6,20,36990
+527,1966.04.27,draw,A33,"English, Symmetrical",46,23,0,0,8,25,47004
+588,1978.07.20,draw,C82,"Ruy Lopez, Open",57,28,2725,2665,2,28,52335
+326,1948.03.15,draw,D17,Queen's Gambit Declined Slav,89,44,0,0,6,17,29014
+447,1958.04.10,white,B12,Caro-Kann Defense,109,54,0,0,15,21,39590
+286,1935.12.06,white,C27,Vienna Game,81,40,0,0,27,15,25567
+315,1948.03.02,black,C75,"Ruy Lopez, Modern Steinitz Defense",111,55,0,0,1,17,28125
+427,1957.04.13,black,D73,"Neo-Grunfeld, 5.Nf3",138,69,0,0,17,20,37868
+511,1963.04.24,white,D31,Queen's Gambit Declined,113,56,0,0,14,24,45637
+265,1935.10.15,draw,D12,Queen's Gambit Declined Slav,145,72,0,0,6,15,23715
+396,1954.04.06,black,D22,Queen's Gambit Accepted,74,37,0,0,10,19,35333
+638,1984.09.12,draw,E17,Queen's Indian,93,46,2715,2705,2,30,56970
+54,1891.01.17,draw,D06,Queen's Gambit Declined,112,56,0,0,17,3,4374
+222,1929.10.15,white,D30,Queen's Gambit Declined,141,70,0,0,14,13,19396
+510,1963.04.22,draw,E18,"Queen's Indian, Old Main line, 7.Nc3",107,53,0,0,13,24,45530
+474,1960.??.??,white,A87,"Dutch, Leningrad, Main Variation",82,41,0,0,19,22,42041
+379,1951.04.22,black,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",70,35,0,0,17,18,33806
+305,1937.11.11,draw,E02,"Catalan, Open, 5.Qa4",129,64,0,0,16,16,27182
+241,1934.04.22,draw,E24,"Nimzo-Indian, Samisch",127,63,0,0,8,14,21320
+250,1934.05.20,black,D24,Queen's Gambit Accepted,82,41,0,0,17,14,22452
+499,1963.03.25,draw,D27,"Queen's Gambit Accepted, Classical",70,35,0,0,2,24,44496
+234,1934.04.01,draw,D50,Queen's Gambit Declined,130,65,0,0,1,14,20687
+681,1985.01.23,draw,B85,"Sicilian, Scheveningen, Classical",72,36,2705,2715,45,30,59831
+110,1907.03.19,white,C11,French,91,45,0,0,12,6,9330
+327,1948.03.16,draw,C08,"French, Tarrasch, Open, 4.ed ed",80,40,0,0,7,17,29103
+94,1894.05.15,white,D40,"Queen's Gambit Declined, Semi-Tarrasch",87,43,0,0,15,5,7799
+178,1927.09.23,draw,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack",98,49,0,0,4,12,15676
+341,1948.04.20,black,C08,"French, Tarrasch, Open, 4.ed ed",144,72,0,0,15,17,30420
+387,1954.03.16,black,C17,"French, Winawer, Advance",116,58,0,0,1,19,34560
+627,1981.10.24,black,D53,Queen's Gambit Declined,86,43,2695,2700,9,29,56122
+590,1978.07.25,draw,C82,"Ruy Lopez, Open",37,18,2725,2665,4,28,52452
+328,1948.03.16,black,E02,"Catalan, Open, 5.Qa4",114,57,0,0,7,17,29183
+198,1927.11.03,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",81,40,0,0,24,12,17254
+432,1957.04.27,draw,C11,French,21,10,0,0,22,20,38268
+600,1978.08.19,white,C82,"Ruy Lopez, Open",99,49,2725,2665,14,28,53398
+489,1961.04.17,white,E85,"King's Indian, Samisch, Orthodox Variation",81,40,0,0,13,23,43260
+41,1890.12.15,white,C50,Giuoco Piano,113,56,0,0,4,3,3387
+266,1935.10.17,white,C15,"French, Winawer",79,39,0,0,7,15,23860
+297,1937.10.21,white,E34,"Nimzo-Indian, Classical, Noa Variation",51,25,0,0,8,16,26499
+438,1958.03.20,white,E81,"King's Indian, Samisch",97,48,0,0,6,21,38870
+394,1954.04.01,draw,D06,Queen's Gambit Declined,100,50,0,0,8,19,35184
+665,1984.12.03,draw,D47,Queen's Gambit Declined Semi-Slav,26,13,2705,2715,29,30,58794
+420,1957.03.28,draw,C98,"Ruy Lopez, Closed, Chigorin",94,47,0,0,10,20,37248
+8,1886.02.08,draw,C67,Ruy Lopez,43,21,0,0,8,1,610
+48,1891.01.03,draw,D40,"Queen's Gambit Declined, Semi-Tarrasch",57,28,0,0,11,3,4007
+112,1907.03.23,white,C11,French,41,20,0,0,14,6,9537
+56,1891.01.22,draw,D40,"Queen's Gambit Declined, Semi-Tarrasch",82,41,0,0,19,3,4594
+597,1978.08.10,white,B20,Sicilian,100,50,2665,2725,11,28,53088
+130,1909.10.19,draw,C87,Ruy Lopez,85,42,0,0,1,8,11310
+42,1890.12.18,black,D20,Queen's Gambit Accepted,50,25,0,0,5,3,3500
+546,1969.04.18,draw,B36,"Sicilian, Accelerated Fianchetto",86,43,0,0,3,26,48725
+363,1951.03.16,draw,A91,Dutch Defense,57,28,0,0,1,18,32223
+60,1892.01.07,white,C65,"Ruy Lopez, Berlin Defense",55,27,0,0,4,4,4864
+276,1935.11.09,draw,D04,Queen's Pawn Game,45,22,0,0,17,15,24819
+646,1984.10.08,draw,E12,Queen's Indian,29,14,2715,2705,10,30,57655
+442,1958.03.29,draw,A16,English,87,43,0,0,10,21,39159
+119,1908.09.02,draw,C10,French,106,53,0,0,6,7,10088
+139,1909.11.09,black,B34,"Sicilian, Accelerated Fianchetto",58,29,0,0,10,8,12126
+88,1894.04.14,white,C62,"Ruy Lopez, Old Steinitz Defense",97,48,0,0,9,5,7262
+488,1961.04.14,white,C18,"French, Winawer",81,40,0,0,12,23,43179
+15,1886.03.15,draw,D50,Queen's Gambit Declined,97,48,0,0,15,1,1209
+462,1960.??.??,white,B18,"Caro-Kann, Classical",103,51,0,0,7,22,40864
+425,1957.04.09,draw,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",112,56,0,0,15,20,37646
+367,1951.03.25,black,E43,"Nimzo-Indian, Fischer Variation",78,39,0,0,5,18,32597
+270,1935.10.27,draw,D12,Queen's Gambit Declined Slav,60,30,0,0,11,15,24238
+616,1978.10.10,draw,A34,"English, Symmetrical",82,41,2725,2665,30,28,55033
+535,1966.05.18,draw,B06,Robatsch,97,48,0,0,16,25,47693
+358,1948.05.11,draw,D22,Queen's Gambit Accepted,34,17,0,0,23,17,31884
+662,1984.11.21,draw,A33,"English, Symmetrical",46,23,2715,2705,26,30,58582
+388,1954.03.18,white,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",59,29,0,0,2,19,34676
+274,1935.11.05,draw,D17,Queen's Gambit Declined Slav,122,61,0,0,15,15,24567
+246,1934.05.06,draw,A47,Queen's Indian,147,73,0,0,13,14,21974
+570,1972.07.20,black,E41,Nimzo-Indian,54,27,2660,2785,5,27,50768
+306,1937.11.14,white,D19,"Queen's Gambit Declined Slav, Dutch",81,40,0,0,17,16,27311
+78,1892.02.25,white,D55,Queen's Gambit Declined,97,48,0,0,22,4,6193
+491,1961.04.21,white,E81,"King's Indian, Samisch",125,62,0,0,15,23,43406
+220,1929.10.11,black,D52,Queen's Gambit Declined,112,56,0,0,12,13,19216
+350,1948.05.03,white,C81,"Ruy Lopez, Open, Howell Attack",51,25,0,0,19,17,31238
+155,1910.01.21,white,C66,Ruy Lopez,116,58,0,0,5,10,13667
+374,1951.04.10,black,A85,"Dutch, with c4 & Nc3",80,40,0,0,12,18,33269
+34,1889.02.19,white,D07,"Queen's Gambit Declined, Chigorin Defense",69,34,0,0,14,2,2821
+559,1969.05.23,draw,D34,"Queen's Gambit Declined, Tarrasch",62,31,0,0,16,26,49798
+509,1963.04.20,draw,D31,Queen's Gambit Declined,105,52,0,0,12,24,45425
+554,1969.05.12,black,E12,Queen's Indian,111,55,0,0,11,26,49392
+181,1927.10.01,white,D52,Queen's Gambit Declined,71,35,0,0,7,12,15936
+389,1954.03.20,draw,C17,"French, Winawer, Advance",81,40,0,0,3,19,34735
+545,1969.04.16,draw,D34,"Queen's Gambit Declined, Tarrasch",121,60,0,0,2,26,48604
+484,1961.03.31,white,B12,Caro-Kann Defense,57,28,0,0,8,23,42809
+90,1894.04.21,white,D40,"Queen's Gambit Declined, Semi-Tarrasch",75,37,0,0,11,5,7427
+454,1958.05.03,black,A95,"Dutch, Stonewall",76,38,0,0,22,21,40225
+435,1958.03.11,black,B19,"Caro-Kann, Classical",132,66,0,0,3,21,38494
+421,1957.03.30,draw,D79,"Neo-Grunfeld, 6.O-O, Main line",46,23,0,0,11,20,37342
+307,1937.11.18,draw,D41,"Queen's Gambit Declined, Semi-Tarrasch",101,50,0,0,18,16,27392
+500,1963.03.27,draw,E18,"Queen's Indian, Old Main line, 7.Nc3",172,86,0,0,3,24,44566
+292,1937.10.10,draw,D46,Queen's Gambit Declined Semi-Slav,120,60,0,0,3,16,26132
+202,1927.11.10,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",85,42,0,0,28,12,17534
+433,1958.03.04,black,B11,"Caro-Kann, Two Knights, 3...Bg4",124,62,0,0,1,21,38289
+533,1966.05.13,draw,A05,Reti Opening,113,56,0,0,14,25,47470
+97,1894.05.22,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",122,61,0,0,18,5,8096
+323,1948.03.11,black,A13,English,116,58,0,0,5,17,28749
+128,1908.09.28,draw,D02,Queen's Pawn Game,102,51,0,0,15,7,11156
+101,1907.01.31,black,D53,Queen's Gambit Declined,84,42,0,0,3,6,8522
+68,1892.01.26,black,C59,Two Knights,52,26,0,0,12,4,5441
+526,1966.04.25,black,D03,Torre Attack (Tartakower Variation),86,43,0,0,7,25,46918
+426,1957.04.11,draw,C98,"Ruy Lopez, Closed, Chigorin",110,55,0,0,16,20,37758
+187,1927.10.15,draw,D63,"Queen's Gambit Declined, Orthodox Defense",54,27,0,0,13,12,16412
+606,1978.09.09,draw,B15,Caro-Kann,126,63,2725,2665,20,28,53913
+190,1927.10.17,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",47,23,0,0,16,12,16575
+382,1951.04.29,draw,A14,English,91,45,0,0,20,18,34110
+44,1890.12.22,white,E51,"Nimzo-Indian, 4.e3",55,27,0,0,7,3,3636
+124,1908.09.15,white,C12,"French, McCutcheon",55,27,0,0,11,7,10647
+74,1892.02.14,white,A85,"Dutch, with c4 & Nc3",77,38,0,0,18,4,5879
+448,1958.04.15,draw,A16,English,72,36,0,0,16,21,39699
+5,1886.01.20,white,D10,Queen's Gambit Declined Slav,63,31,0,0,5,1,356
+217,1929.10.03,draw,D52,Queen's Gambit Declined,60,30,0,0,9,13,18931
+93,1894.05.08,white,D46,Queen's Gambit Declined Semi-Slav,91,45,0,0,14,5,7708
+639,1984.09.17,white,B44,Sicilian,61,30,2705,2715,3,30,57063
+26,1889.01.29,black,D02,Queen's Pawn Game,74,37,0,0,6,2,2131
+277,1935.11.12,draw,A20,English,31,15,0,0,18,15,24864
+175,1927.09.16,black,C01,"French, Exchange",86,43,0,0,1,12,15469
+595,1978.08.05,draw,D37,Queen's Gambit Declined,82,41,2665,2725,9,28,52919
+585,1972.08.29,draw,B68,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7",108,54,2785,2660,20,27,52110
+623,1981.10.12,draw,D53,Queen's Gambit Declined,89,44,2695,2700,5,29,55723
+401,1954.04.17,black,B25,"Sicilian, Closed",72,36,0,0,15,19,35712
+584,1972.08.27,draw,B05,"Alekhine's Defense, Modern",80,40,2660,2785,19,27,52030
+338,1948.04.19,black,D45,Queen's Gambit Declined Semi-Slav,126,63,0,0,13,17,30128
+501,1963.03.30,draw,A35,"English, Symmetrical",48,24,0,0,4,24,44738
+194,1927.10.24,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",86,43,0,0,20,12,16837
+10,1886.02.26,draw,C67,Ruy Lopez,42,21,0,0,10,1,729
+120,1908.09.05,white,C15,"French, Winawer",151,75,0,0,7,7,10194
+463,1960.??.??,white,A60,Benoni Defense,81,40,0,0,8,22,40967
+398,1954.04.10,white,D18,"Queen's Gambit Declined Slav, Dutch",75,37,0,0,12,19,35489
+624,1981.10.15,black,C82,"Ruy Lopez, Open",82,41,2700,2695,6,29,55812
+423,1957.04.04,white,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",81,40,0,0,13,20,37474
+614,1978.09.30,black,C82,"Ruy Lopez, Open",122,61,2725,2665,28,28,54754
+524,1966.04.20,draw,B14,"Caro-Kann, Panov-Botvinnik Attack",158,79,0,0,5,25,46730
+561,1969.06.02,draw,D34,"Queen's Gambit Declined, Tarrasch",117,58,0,0,18,26,49975
+392,1954.03.27,draw,D86,"Grunfeld, Exchange",67,33,0,0,6,19,35018
+443,1958.04.01,white,D99,"Grunfeld Defense, Smyslov",47,23,0,0,11,21,39246
+59,1892.01.05,draw,C52,Evans Gambit,64,32,0,0,3,4,4800
+25,1889.01.27,black,C52,Evans Gambit,52,26,0,0,5,2,2079
+504,1963.04.06,white,A21,English,103,51,0,0,7,24,44935
+87,1894.04.05,black,C10,French,152,76,0,0,8,5,7110
+96,1894.05.19,black,C50,Giuoco Piano,102,51,0,0,17,5,7994
+457,1960.??.??,draw,A61,Benoni,88,44,0,0,2,22,40445
+333,1948.03.25,draw,C75,"Ruy Lopez, Modern Steinitz Defense",113,56,0,0,10,17,29707
+471,1960.??.??,draw,E24,"Nimzo-Indian, Samisch",81,40,0,0,16,22,41727
+252,1934.05.26,draw,D27,"Queen's Gambit Accepted, Classical",115,57,0,0,19,14,22590
+660,1984.11.16,draw,A33,"English, Symmetrical",33,16,2715,2705,24,30,58507
+332,1948.03.23,white,C90,"Ruy Lopez, Closed",139,69,0,0,9,17,29568
+348,1948.04.27,black,C81,"Ruy Lopez, Open, Howell Attack",81,40,0,0,18,17,31063
+125,1908.09.16,white,C49,Four Knights,129,64,0,0,12,7,10702
+566,1969.06.16,draw,B48,"Sicilian, Taimanov Variation",81,40,0,0,23,26,50405
+313,1937.12.02,white,D41,"Queen's Gambit Declined, Semi-Tarrasch",81,40,0,0,24,16,27958
+17,1886.03.19,draw,D60,"Queen's Gambit Declined, Orthodox Defense",104,52,0,0,17,1,1403
+580,1972.08.17,draw,B99,"Sicilian, Najdorf, 7...Be7 Main line",86,43,2660,2785,15,27,51641
+218,1929.10.05,black,D52,Queen's Gambit Declined,99,49,0,0,10,13,18991
+71,1892.02.04,white,C52,Evans Gambit,93,46,0,0,15,4,5634
+547,1969.04.21,black,D34,"Queen's Gambit Declined, Tarrasch",82,41,0,0,4,26,48811
+657,1984.11.02,draw,D53,Queen's Gambit Declined,61,30,2705,2715,21,30,58363
+485,1961.04.07,white,A23,"English, Bremen System, Keres Variation",145,72,0,0,9,23,42866
+552,1969.05.05,draw,A56,Benoni Defense,130,65,0,0,9,26,49187
+240,1934.04.20,draw,D28,"Queen's Gambit Accepted, Classical",34,17,0,0,7,14,21286
+655,1984.10.29,draw,D55,Queen's Gambit Declined,88,44,2705,2715,19,30,58246
+641,1984.09.24,draw,B85,"Sicilian, Scheveningen, Classical",42,21,2705,2715,5,30,57212
+618,1978.10.17,white,A43,Old Benoni,82,41,2725,2665,32,28,55256
+563,1969.06.09,white,D55,Queen's Gambit Declined,99,49,0,0,20,26,50139
+288,1935.12.12,draw,B05,"Alekhine's Defense, Modern",100,50,0,0,29,15,25773
+395,1954.04.03,white,C17,"French, Winawer, Advance",49,24,0,0,9,19,35284
+576,1972.08.06,white,B97,"Sicilian, Najdorf",61,30,2660,2785,11,27,51242
+249,1934.05.13,white,C77,Ruy Lopez,85,42,0,0,16,14,22367
+9,1886.02.10,black,D26,Queen's Gambit Accepted,76,38,0,0,9,1,653
+480,1961.03.22,draw,B12,Caro-Kann Defense,82,41,0,0,4,23,42466
+141,1910.11.09,draw,D05,Queen's Pawn Game,90,45,0,0,2,9,12227
+407,1954.05.06,draw,C15,"French, Winawer",79,39,0,0,21,19,36282
+381,1951.04.27,white,D74,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O",119,59,0,0,19,18,33991
+301,1937.11.01,draw,E34,"Nimzo-Indian, Classical, Noa Variation",51,25,0,0,12,16,26770
+16,1886.03.17,white,C65,"Ruy Lopez, Berlin Defense",97,48,0,0,16,1,1306
+567,1972.07.11,white,E56,"Nimzo-Indian, 4.e3, Main line with 7...Nc6",111,55,2660,2785,1,27,50486
+496,1961.05.08,draw,B12,Caro-Kann Defense,242,121,0,0,20,23,44109
+417,1957.03.21,draw,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",46,23,0,0,7,20,37045
+586,1972.08.31,black,B46,"Sicilian, Taimanov Variation",81,40,2660,2785,21,27,52218
+32,1889.02.12,white,D07,"Queen's Gambit Declined, Chigorin Defense",121,60,0,0,12,2,2573
+359,1948.05.13,white,C49,Four Knights,81,40,0,0,24,17,31918
+679,1985.01.18,draw,B84,"Sicilian, Scheveningen",42,21,2705,2715,43,30,59714
+571,1972.07.23,white,D59,"Queen's Gambit Declined, Tartakower",81,40,2785,2660,6,27,50822
+133,1909.10.25,black,C49,Four Knights,100,50,0,0,4,8,11534
+386,1951.05.11,draw,D44,Queen's Gambit Declined Semi-Slav,43,21,0,0,24,18,34517
+143,1910.11.17,black,D27,"Queen's Gambit Accepted, Classical",62,31,0,0,4,9,12518
+179,1927.09.27,draw,D51,Queen's Gambit Declined,83,41,0,0,5,12,15774
+385,1951.05.08,white,D71,Neo-Grunfeld,113,56,0,0,23,18,34404
+593,1978.08.01,draw,E47,"Nimzo-Indian, 4.e3 O-O 5.Bd3",83,41,2665,2725,7,28,52781
+568,1972.07.16,black,A77,"Benoni, Classical, 9...Re8, 10.Nd2",82,41,2660,2785,3,27,50597
+630,1981.11.02,draw,A16,English,93,46,2700,2695,12,29,56341
+177,1927.09.21,white,A47,Queen's Indian,83,41,0,0,3,12,15593
+254,1934.05.30,black,D30,Queen's Gambit Declined,126,63,0,0,21,14,22793
+203,1927.11.14,white,D52,Queen's Gambit Declined,139,69,0,0,29,12,17619
+314,1937.12.04,black,E46,Nimzo-Indian,86,43,0,0,25,16,28039
+368,1951.03.26,black,B63,"Sicilian, Richter-Rauzer Attack",114,57,0,0,6,18,32675
+445,1958.04.05,draw,D47,Queen's Gambit Declined Semi-Slav,81,40,0,0,13,21,39374
+299,1937.10.26,white,E34,"Nimzo-Indian, Classical, Noa Variation",79,39,0,0,10,16,26631
+365,1951.03.20,draw,C08,"French, Tarrasch, Open, 4.ed ed",126,63,0,0,3,18,32377
+560,1969.05.28,white,B42,"Sicilian, Kan",115,57,0,0,17,26,49860
+282,1935.11.26,draw,D15,Queen's Gambit Declined Slav,115,57,0,0,23,15,25204
+35,1889.02.21,black,C52,Evans Gambit,72,36,0,0,15,2,2890
+611,1978.09.23,draw,A22,English,160,80,2665,2725,25,28,54459
+515,1963.05.08,black,D31,Queen's Gambit Declined,122,61,0,0,18,24,46050
+581,1972.08.20,draw,C69,"Ruy Lopez, Exchange, Gligoric Variation, 6.d4",120,60,2785,2660,16,27,51727
+353,1948.05.06,black,E32,"Nimzo-Indian, Classical",70,35,0,0,21,17,31492
+449,1958.04.17,draw,B10,Caro-Kann,98,49,0,0,17,21,39771
+647,1984.10.10,draw,A30,"English, Symmetrical",81,40,2705,2715,11,30,57684
+46,1890.12.29,draw,D30,Queen's Gambit Declined,159,79,0,0,9,3,3762
+63,1892.01.14,white,C52,Evans Gambit,55,27,0,0,7,4,5121
+476,1960.??.??,draw,E19,"Queen's Indian, Old Main line, 9.Qxc3",34,17,0,0,21,22,42177
+331,1948.03.23,draw,A91,Dutch Defense,66,33,0,0,9,17,29502
+57,1892.01.01,white,C52,Evans Gambit,61,30,0,0,1,4,4676
+666,1984.12.05,draw,C42,Petrov Defense,40,20,2715,2705,30,30,58820
+361,1948.05.16,white,C15,"French, Winawer",77,38,0,0,25,17,32075
+227,1929.10.27,white,D51,Queen's Gambit Declined,153,76,0,0,19,13,19913
+61,1892.01.10,draw,C52,Evans Gambit,109,54,0,0,5,4,4919
+261,1935.10.06,white,D81,"Grunfeld, Russian Variation",89,44,0,0,2,15,23389
+107,1907.03.02,draw,D32,"Queen's Gambit Declined, Tarrasch",91,45,0,0,9,6,9043
+144,1910.11.19,white,D32,"Queen's Gambit Declined, Tarrasch",57,28,0,0,5,9,12580
+238,1934.04.13,draw,D26,Queen's Gambit Accepted,101,50,0,0,5,14,21065
+525,1966.04.22,draw,D41,"Queen's Gambit Declined, Semi-Tarrasch",30,15,0,0,6,25,46888
+102,1907.02.02,draw,C12,"French, McCutcheon",80,40,0,0,4,6,8606
+267,1935.10.20,white,D45,Queen's Gambit Declined Semi-Slav,137,68,0,0,8,15,23939
+610,1978.09.19,draw,C83,"Ruy Lopez, Open",90,45,2725,2665,24,28,54369
+209,1929.09.06,white,D16,Queen's Gambit Declined Slav,51,25,0,0,1,13,18245
+180,1927.09.30,draw,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",79,39,0,0,6,12,15857
+161,1921.03.15,draw,D63,"Queen's Gambit Declined, Orthodox Defense",100,50,0,0,1,11,14329
+636,1981.11.18,white,C80,"Ruy Lopez, Open",81,40,2700,2695,18,29,56817
+608,1978.09.14,draw,C08,"French, Tarrasch, Open, 4.ed ed",128,64,2725,2665,22,28,54158
+444,1958.04.03,white,A12,English with b3,81,40,0,0,12,21,39293
+91,1894.05.03,draw,D60,"Queen's Gambit Declined, Orthodox Defense",96,48,0,0,12,5,7502
+521,1966.04.13,draw,D59,"Queen's Gambit Declined, Tartakower",100,50,0,0,2,25,46457
+431,1957.04.25,draw,D79,"Neo-Grunfeld, 6.O-O, Main line",26,13,0,0,21,20,38242
+195,1927.10.26,black,D63,"Queen's Gambit Declined, Orthodox Defense",64,32,0,0,21,12,16923
+440,1958.03.25,draw,E69,"King's Indian, Fianchetto, Classical Main line",81,40,0,0,8,21,38998
+446,1958.04.08,white,A16,English,135,67,0,0,14,21,39455
+450,1958.04.19,white,A16,English,147,73,0,0,18,21,39869
+518,1963.05.18,draw,A16,English,19,9,0,0,21,24,46345
+598,1978.08.15,draw,C81,"Ruy Lopez, Open, Howell Attack",88,44,2725,2665,12,28,53188
+287,1935.12.08,draw,D66,"Queen's Gambit Declined, Orthodox Defense, Bd3 line",125,62,0,0,28,15,25648
+564,1969.06.11,white,C92,"Ruy Lopez, Closed",105,52,0,0,21,26,50238
+294,1937.10.14,white,D28,"Queen's Gambit Accepted, Classical",81,40,0,0,5,16,26305
+556,1969.05.16,draw,C42,Petrov Defense,49,24,0,0,13,26,49600
+264,1935.10.12,draw,C15,"French, Winawer",68,34,0,0,5,15,23647
+149,1910.12.06,black,B07,Pirc,104,52,0,0,10,9,13122
+675,1985.01.07,draw,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",96,48,2705,2715,39,30,59285
+619,1981.10.01,black,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System",86,43,2695,2700,1,29,55338
+649,1984.10.15,draw,A30,"English, Symmetrical",66,33,2705,2715,13,30,57806
+609,1978.09.16,draw,D37,Queen's Gambit Declined,83,41,2665,2725,23,28,54286
