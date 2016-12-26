@@ -151,7 +151,7 @@ if __name__ == '__main__':
                     player_color_1 = parts[0].lower().strip()
 
                     if player_name_1 not in players:
-                        players[player_name_1] = (parts[1].strip(), num_of_players)
+                        players[player_name_1] = (parts[1].strip().replace("  ", " "), num_of_players)
                         player1_id = num_of_players
                         num_of_players += 1
                     else:
@@ -166,7 +166,7 @@ if __name__ == '__main__':
                     player_color_2 = parts[0].lower().strip()
 
                     if player_name_2 not in players:
-                        players[player_name_2] = (parts[1].strip(), num_of_players)
+                        players[player_name_2] = (parts[1].strip().replace("  ", " "), num_of_players)
                         player2_id = num_of_players
                         num_of_players += 1
                     else:
