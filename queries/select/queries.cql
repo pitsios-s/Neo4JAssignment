@@ -40,3 +40,16 @@ MATCH (p: Player)-[:playsIn]->(g: Game {opening: 'Ruy Lopez'})
 WITH p.name AS playerName, count(distinct(g)) AS numOfGames
 ORDER BY numOfGames DESC
 RETURN playerName, numOfGames;
+
+// QUERY 5
+MATCH (p: Player)-[:playsIn]->(g: Game)-
+	[:startWith]->(m: Move)-
+    [:leadsTo*]->(m1: Move {move: 'Nc6'})-
+    [:leadsTo]->(m2: Move {move: 'Bb5'})-
+    [:leadsTo]->(m3: Move {move: 'a6'})
+WITH count(distinct(g)) AS NumOfGames, collect(distinct(p.name)) AS PlayerNames
+RETURN NumOfGames, PlayerNames;
+
+// QUERY 6
+
+// QUERY 7
