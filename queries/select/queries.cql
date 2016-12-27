@@ -84,3 +84,7 @@ RETURN g.id AS GameNumber,
     allMoves;
 
 // QUERY 7
+MATCH (g: Game)-[*]->(:Move {fen: 'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'})-[:leadsTo]->(m: Move)
+WHERE m.move <> 'a6'
+WITH g.id AS GameNumber, g.result AS Result, m.move AS AlternativeMove
+RETURN GameNumber, Result, AlternativeMove;
