@@ -33,7 +33,7 @@ WITH e2, count(DISTINCT g2) as TotalGames, m, collect(p2.name) as names
 WHERE TotalGames = m
 RETURN e2.name AS EventName, 
     TotalGames, 
-    size(filter(X in names where X = "Karpov  Anatoly")) AS KarpovAnatolyGames;
+    size(filter(X in names where toLower(replace(X, " ", "")) = 'karpovanatoly')) AS KarpovAnatolyGames;
 
 // QUERY 4
 // Approach 1

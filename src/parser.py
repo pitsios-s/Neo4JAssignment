@@ -262,7 +262,7 @@ if __name__ == '__main__':
                 elif attribute_number == 16:
                     attribute_number += 1
 
-                # Eighteenth line contains info about the first move of the game. For now on we won't increase the
+                # Eighteenth line contains info about the first move of the game. From now on, we won't increase the
                 # attribute_number counter.
                 elif attribute_number == 17:
                     parts = line.split(",")
