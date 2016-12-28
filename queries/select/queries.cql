@@ -2,27 +2,27 @@
 // Approach 1
 MATCH (g: Game)-[*]->(:Move {fen: 'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'})
 WITH collect(g.result) AS results, count(g) AS NumOfGames
-RETURN NumOfGames, ((size(filter(X in results where X = 'white')) / toFloat(NumOfGames))) * 100 AS WhiteWinPercentage;
+RETURN NumOfGames, ((size(filter(X in results WHERE X = 'white')) / toFloat(NumOfGames))) * 100 AS WhiteWinPercentage;
 
 // Approach 2
 MATCH (g: Game)-[:startsWith]->(m1: Move)-[:leadsTo*]->(m2: Move {fen: 'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'})
 WITH collect(g.result) AS results, count(g) AS NumOfGames
-RETURN NumOfGames, ((size(filter(X in results where X = 'white')) / toFloat(NumOfGames))) * 100 AS WhiteWinPercentage;
+RETURN NumOfGames, ((size(filter(X in results WHERE X = 'white')) / toFloat(NumOfGames))) * 100 AS WhiteWinPercentage;
 
 // QUERY 2
 // Approach 1
 MATCH (g: Game)-[*]->(:Move {fen: 'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'})
 WITH collect(g.result) AS results, count(g) AS NumOfGames
-RETURN NumOfGames, size(filter(X in results where X = 'white')) AS WhiteWins, 
-    size(filter(X in results where X = 'black')) AS BlackWins, 
-    size(filter(X in results where X = 'draw')) AS Draws;
+RETURN NumOfGames, size(filter(X in results WHERE X = 'white')) AS WhiteWins, 
+    size(filter(X in results WHERE X = 'black')) AS BlackWins, 
+    size(filter(X in results WHERE X = 'draw')) AS Draws;
 
 // Approach 2
 MATCH (g: Game)-[:startsWith]->(m1: Move)-[:leadsTo*]->(m2: Move {fen: 'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'})
 WITH collect(g.result) AS results, count(g) AS NumOfGames
-RETURN NumOfGames, size(filter(X in results where X = 'white')) AS WhiteWins, 
-    size(filter(X in results where X = 'black')) AS BlackWins, 
-    size(filter(X in results where X = 'draw')) AS Draws;
+RETURN NumOfGames, size(filter(X in results WHERE X = 'white')) AS WhiteWins, 
+    size(filter(X in results WHERE X = 'black')) AS BlackWins, 
+    size(filter(X in results WHERE X = 'draw')) AS Draws;
 
 // QUERY 3
 MATCH (g1: Game)-[:belongsTo]->(e1: Event)
@@ -33,7 +33,7 @@ WITH e2, count(DISTINCT g2) as TotalGames, m, collect(p2.name) as names
 WHERE TotalGames = m
 RETURN e2.name AS EventName, 
     TotalGames, 
-    size(filter(X in names where toLower(replace(X, " ", "")) = 'karpovanatoly')) AS KarpovAnatolyGames;
+    size(filter(X in names WHERE toLower(replace(X, " ", "")) = 'karpovanatoly')) AS KarpovAnatolyGames;
 
 // QUERY 4
 // Approach 1
