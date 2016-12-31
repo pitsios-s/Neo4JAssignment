@@ -1,5 +1,6 @@
 import re
 import csv
+import os
 
 # A dictionary keeping all the unique players
 players = {}
@@ -283,6 +284,10 @@ if __name__ == '__main__':
                         prev_move = num_of_moves
 
                     num_of_moves += 1
+
+    # Create output directory if not exists
+    if not os.path.exists("../csv"):
+        os.makedirs("../csv")
 
     # Create all the necessary csv files.
     save_players_to_csv()
